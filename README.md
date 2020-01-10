@@ -20,15 +20,17 @@ by the grammatical parsing information (colums: question,parse_tree,question_typ
 
 * data_word2vec: 
 
-#### WARNING : Needs to contain biomedical data for training the neural network of the word embedding
+#### WARNING : Needs to contain model for word embeddings (pre-trained on biomedical data)
 
 Downoald https://archive.org/download/pubmed2018_w2v_200D.tar/pubmed2018_w2v_200D.tar.gz, unzip the folder and add it to the data_word2vec folder of the project 
 
-This model was found on : https://github.com/RaRe-Technologies/gensim-data/issues/28
+This model was found on : http://nlp.cs.aueb.gr/software.html
+
+This project corresponds to english word embeddings pre-trained on biomedical texts from MEDLINE®/PubMed® Baseline 2018 using the Word2Vec implementation of the gensim toolkit. It was created by AUEB's NLP group: http://nlp.cs.aueb.gr/.
 
 * stanford-corenlp-full-2018-10-05 : 
 
-#### WARNING : Needs to contain the StanfordCoreNLP model
+#### WARNING : Needs to contain the StanfordCoreNLP tools
 
 Downoald http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip , unzip the folder and add its content to the stanford-corenlp-full-2018-10-05 folder of the project. 
 
