@@ -12,12 +12,15 @@ by the grammatical parsing information (colums: question,parse_tree,question_typ
 
 * data_word2vec: 
 
-#### WARNING : Need to contains biomedical data for training the neural network of the word embedding
+#### WARNING : Needs to contain biomedical data for training the neural network of the word embedding
 
 Downoald https://archive.org/download/pubmed2018_w2v_200D.tar/pubmed2018_w2v_200D.tar.gz, unzip the folder and add it to the data_word2vec folder. 
 
+This model was found in : https://github.com/RaRe-Technologies/gensim-data/issues/28
+
 * stanford-corenlp-full-2018-10-05 : 
 
+Needs to contain http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip 
 StanfordCoreNLP tools provide by 
 https://stanfordnlp.github.io/CoreNLP/
 
