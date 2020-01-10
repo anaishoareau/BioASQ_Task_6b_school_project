@@ -63,9 +63,10 @@ vectorization(X_train, X_test, vectorizer)
 
 * word_2_vec.py:
 
-Contains function to allow word embedding vectorization
+Contains functions to allow word embedding vectorization (Functions were found on : https://www.kdnuggets.com/2018/11/multi-class-text-classification-model-comparison-selection.html/2)
 
 word_averaging(wv, words)
+
 word_averaging_list(wv, text_list)
 
 * evaluation_method.py:
