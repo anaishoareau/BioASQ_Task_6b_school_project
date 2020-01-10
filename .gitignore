@@ -1,0 +1,15 @@
+
+data_word2vec/pubmed2018_w2v_200D/pubmed2018_w2v_200D.bin
+stanford-corenlp-full-2018-10-05/build.xml
+*.jar
+stanford-corenlp-full-2018-10-05/LIBRARY-LICENSES
+*.txt
+stanford-corenlp-full-2018-10-05/Makefile
+*.xml
+stanford-corenlp-full-2018-10-05/RESOURCE-LICENSES
+*.java
+*.properties
+*.zip
+*.sh
+*.pdf
+*.xsl
