@@ -1,6 +1,14 @@
 # BioASQ_Task_6b_school_project
  
-FOLDERS:
+This laboratory takes place in the BioAsq challenge context. This challenge is about biomedical semantic indexing and question answering (QA). It includes tasks relevant to hierarchical text classification, machine learning, information retrieval, QA from texts and structured data, multi-document summarization and many other areas.
+
+In this laboratory case, we will focus on the task 6b, which is about biomedical semantic QA. Indeed, we will use given dataset containing questions and reference answers for the training.
+
+In this way, the objective of this laboratory case is to write a multiclass classifier for classifying questions into one of the four question type : Factoid, list, summary and yes/no, using an adapted text preprocessing.
+
+## Project content and indications
+
+### Folders
 
 * data:
 
@@ -12,7 +20,7 @@ by the grammatical parsing information (colums: question,parse_tree,question_typ
 
 * data_word2vec: 
 
-### WARNING : Needs to contain biomedical data for training the neural network of the word embedding
+#### WARNING : Needs to contain biomedical data for training the neural network of the word embedding
 
 Downoald https://archive.org/download/pubmed2018_w2v_200D.tar/pubmed2018_w2v_200D.tar.gz, unzip the folder and add it to the data_word2vec folder of the project 
 
@@ -20,14 +28,13 @@ This model was found on : https://github.com/RaRe-Technologies/gensim-data/issue
 
 * stanford-corenlp-full-2018-10-05 : 
 
-### WARNING : Needs to contain the StanfordCoreNLP model
+#### WARNING : Needs to contain the StanfordCoreNLP model
 
 Downoald http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip , unzip the folder and add its content to the stanford-corenlp-full-2018-10-05 folder of the project. 
 
 This model was found on : https://stanfordnlp.github.io/CoreNLP/
 
-
-FILES:
+### Files
 
 * dataset_presentation.py: 
 
