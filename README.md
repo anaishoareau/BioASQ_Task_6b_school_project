@@ -26,7 +26,7 @@ by the grammatical parsing information (colums: question,parse_tree,question_typ
 
 Downoald https://archive.org/download/pubmed2018_w2v_200D.tar/pubmed2018_w2v_200D.tar.gz, unzip the folder and add it to the data_word2vec folder of the project 
 
-This model was found on : http://nlp.cs.aueb.gr/software.html
+This model has been found on: http://nlp.cs.aueb.gr/software.html
 
 This project corresponds to english word embeddings pre-trained on biomedical texts from MEDLINE®/PubMed® Baseline 2018 using the Word2Vec implementation of the gensim toolkit. It was created by AUEB's NLP group: http://nlp.cs.aueb.gr/.
 
@@ -36,7 +36,7 @@ This project corresponds to english word embeddings pre-trained on biomedical te
 
 Downoald http://nlp.stanford.edu/software/stanford-corenlp-full-2018-10-05.zip , unzip the folder and add its content to the stanford-corenlp-full-2018-10-05 folder of the project. 
 
-This model was found on : https://stanfordnlp.github.io/CoreNLP/
+This model has been found on: https://stanfordnlp.github.io/CoreNLP/
 
 ### Files
 
@@ -63,7 +63,7 @@ vectorization(X_train, X_test, vectorizer)
 
 * word_2_vec.py:
 
-Contains functions to allow word embedding vectorization (Functions were found on : https://www.kdnuggets.com/2018/11/multi-class-text-classification-model-comparison-selection.html/2)
+Contains functions to allow word embedding vectorization (functions have been found: https://www.kdnuggets.com/2018/11/multi-class-text-classification-model-comparison-selection.html/2)
 
 word_averaging(wv, words)
 
