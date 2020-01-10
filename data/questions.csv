@@ -1,0 +1,2252 @@
+,question,question_type
+0,Is Hirschsprung disease a mendelian or a multifactorial disorder?,summary
+1,List signaling molecules (ligands) that interact with the receptor EGFR?,list
+2,Is the protein Papilin secreted?,yesno
+3,Are long non coding RNAs spliced?,yesno
+4,Is RANKL secreted from the cells?,yesno
+5,Does metformin interfere thyroxine absorption?,yesno
+6,Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer?,list
+7,Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?,list
+8,Has Denosumab (Prolia) been approved by FDA?,yesno
+9,List the human genes encoding for the dishevelled proteins?,list
+10,Name synonym of Acrokeratosis paraneoplastica.,factoid
+11,Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification?,list
+12,Which are the different isoforms of the mammalian Notch receptor?,list
+13,Which are the major characteristics of cellular senescence?,list
+14,Orteronel was developed for treatment of which cancer?,factoid
+15,Is the monoclonal antibody Trastuzumab (Herceptin) of potential use in the treatment of prostate cancer?,yesno
+16,Which is the protein that is encoded by the gene GLT8D1?,factoid
+17,Which are the Yamanaka factors?,list
+18,What is the aim of the Human Chromosome-centric Proteome Project (C-HPP)?,summary
+19,Where is the protein Pannexin1 located?,factoid
+20,Which currently known mitochondrial diseases have been attributed to POLG mutations?,list
+21,What is the effect of ivabradine in heart failure after myocardial infarction?,summary
+22,What is the mode of inheritance of Wilson's disease?,factoid
+23,Are transcription and splicing connected?,yesno
+24,What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?,factoid
+25,Is Alu hypomethylation associated with breast cancer?,yesno
+26,Which proteins participate in the formation of the ryanodine receptor quaternary macromolecular complex?,list
+27,What kind of chromatography is HILIC?,factoid
+28,What is the effect of TRH on myocardial contractility?,summary
+29,Proteomic analyses need prior knowledge of the organism complete genome. Is the complete genome of the bacteria of the genus Arthrobacter available?,yesno
+30,What is the structural fold of bromodomain proteins?,factoid
+31,List the endoscopic diagnoses that have been reported in children with autism,list
+32,What are the outcomes of Renal sympathetic denervation?,summary
+33,Which MAP kinase phosphorylates the transcription factor c-jun?,factoid
+34,"What is the meaning of the acronym \""TAILS\"" used in protein N-terminomics?",factoid
+35,Do mutations of AKT1 occur in meningiomas?,yesno
+36,What are the main indications of lacosamide?,list
+37,Which fusion protein is involved in the development of Ewing sarcoma?,factoid
+38,List Hemolytic Uremic Syndrome Triad.,list
+39,Does physical activity influence gut hormones?,yesno
+40,What are the effects of depleting protein  km23-1 (DYNLRB1)  in a cell?,list
+41,Treatment of which disease was investigated in the MR CLEAN study?,factoid
+42,Which factors activate zygotic gene expression during the maternal-to-zygotic transition in zebrafish?,list
+43,Is irritable bowel syndrome more common in women with endometriosis?,yesno
+44,What is evaluated using the EORTC QLQ \u2013 INFO25 questionnaire?,summary
+45,Does BNP increase after intensive exercise in athletes?,yesno
+46,What is the association of estrogen replacement therapy and intracranial meningioma risk?,summary
+47,Are there web based self management strategies for chronic pain ?,yesno
+48,Is Weaver syndrome similar to Sotos?,yesno
+49,Which enzyme is targeted by Evolocumab?,factoid
+50,Are ultraconserved elements often transcribed?,yesno
+51,What is the methyl donor of DNA (cytosine-5)-methyltransferases?,factoid
+52,Is peripheral neuroepithelioma related to Ewing sarcoma?,yesno
+53,Which signaling pathway does sonidegib inhibit?,factoid
+54,In which phase of the cell cycle arrest is impaired in Fanconi anemia?,factoid
+55,Which DNA sequences are more prone for the formation of R-loops?,list
+56,Mutation of which gene is implicated in the familial isolated pituitary adenoma?,factoid
+57,which mutations of troponin C gene have been found to cause hypertrophic cardiomyopathy?,list
+58,What is known about the effect of acupuncture in smoking cessation ?,summary
+59,Which post-translational histone modifications are characteristic of constitutive heterochromatin?,list
+60,GV1001 vaccine targets which enzyme?,factoid
+61,Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation?,factoid
+62,Is c-met involved in the activation of the Akt pathway?,yesno
+63,Is pregnancy an additional risk during during H1N1 infection?,yesno
+64,Is there a crystal structure of Greek Goat Encephalitis?,yesno
+65,Are long non coding RNAs as conserved in sequence as protein coding genes?,yesno
+66,Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?,factoid
+67,What is clathrin?,summary
+68,What are the main results of PRKAR1A Knockdown?,summary
+69,Is TENS machine effective in pain?,yesno
+70,Is there any algorithm for enhancer identification from chromatin state?,yesno
+71,Which enzyme is targeted by the drug Imetelstat?,factoid
+72,Which interleukins are inhibited by Dupilumab?,list
+73,Which human genes are more commonly related to craniosynostosis?,list
+74,Are transcribed ultraconserved regions involved in cancer?,yesno
+75,In which breast cancer patients can palbociclib be used?,factoid
+76,Do patients with Pendred syndrome present congenital deafness?,yesno
+77,List side effects of SGLT2 inhibitors?,list
+78,Is CD56 useful in Ewing sarcoma prognosis?,yesno
+79,What is the method FASP used for?,factoid
+80,What is the role of extracellular signal-related kinases 1 and 2 (ERK1/2) proteins in craniosynostosis?,summary
+81,Are there any urine biomarkers for chronic kidney disease?,yesno
+82,What is being measured with an accelerometer in back pain patients,list
+83,List the releases of JASPAR database,list
+84,List symptoms of the IFAP syndrome.,list
+85,Which gene is required for the efficient function of clopidogrel?,factoid
+86,Is valproic acid effective for glioblastoma treatment?,yesno
+87,Which transcription factor is considered as a master regulator of lysosomal genes?,factoid
+88,Which antibiotics target peptidoglycan biosynthesis?,list
+89,Can Levoxyl (levothyroxine sodium) cause insomnia?,yesno
+90,Is fatigue prevalent in patients receiving treatment for glioblastoma?,yesno
+91,List two common features of Tay syndrome.,list
+92,Which cell types are known to be driving Rheumatoid Arthritis?,list
+93,What is the association between personality trait of neuroticism and risk for Alzheimer's disease?,summary
+94,What is the mode of action of everolimus?,summary
+95,Have Quantitative Trait Loci affecting splicing (splicing QTLs) been linked to disease?,yesno
+96,Which technique is used for detection of EWS/FLI1 fusion transcripts?,factoid
+97,Does the CTCF protein co-localize with cohesin?,yesno
+98,What is the application of the Bimolecular Fluorescence Complementation (BiFC) assay in Drosophila embryos?,factoid
+99,Which pathological condition of the heart is known as hypertrophic cardiomyopathy (HCM)?,summary
+100,What is the genetic basis of Rubinstein-Taybi syndrome?,factoid
+101,What is the function of the viral KP4 protein?,summary
+102,What is the function of the AIRE gene at the embryonic stage?,factoid
+103,What is the principle of the PAR-CLIP methodology?,summary
+104,Which drugs are utilized to treat amiodarone-induced thyroitoxicosis?,list
+105,How is spastic diplegia diagnosed?,summary
+106,Which is the genetic defect causing Neurofibromatosis type 1?,factoid
+107,Which is the human selenoprotein that contains several Se-Cys residues?,factoid
+108,Which package is available for analysing genomic interactions in R/Bioconductor?,factoid
+109,How many clinical trials for off-label drugs in neonates are cited in the literature.,factoid
+110,Are stress granules involved in the pathogenesis of Amyotrophic Lateral Sclerosis?,yesno
+111,Does TGF-beta play a role in cardiac regeneration after myocardial infarction?,yesno
+112,Is there a genetic component for happiness?,summary
+113,What enzyme is inhibied by Opicapone?,factoid
+114,What kind of affinity purification would you use in order to isolate soluble lysosomal proteins?,summary
+115,Which are the genes thought to be regulated by EWS/FLI?,list
+116,Do archaeal genomes contain one or multiple origins of replication?,factoid
+117,Which pathological conditions are caused by mutations in the CYLD gene?,list
+118,Which is the genetic basis of Spinal Muscular Atrophy (SMA)?,factoid
+119,Which are the common symptoms of Cushing's syndrome?,list
+120,Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?,factoid
+121,Which kinase is inhibited by the small molecule KN-93?,factoid
+122,What is the effect of Chk2 splice variants on wild-type Chk2 kinase activity?,summary
+123,List genes that have been found mutated in CMT1A (Charcot-Marie-Tooth disease type 1 A).,list
+124,Which viruses are best known to cause myocarditis?,list
+125,Which genes have been associated with Cerebral Cavernous Malformation?,list
+126,Is DITPA a thyroid hormone analog utilized in experimental and clinical studies,yesno
+127,What is Tarlov Cyst?,summary
+128,"What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?",factoid
+129,Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?,factoid
+130,Is MammaPrint cleared by the United States Food and Drug Administration?,yesno
+131,Is amantadine effective for treatment of disorders conciousness?,yesno
+132,What is needed for MMP proteins to be functional?,factoid
+133,What is hyperosmia,factoid
+134,What is the number of long non coding RNAs in the human genome,factoid
+135,Which is the most known bacterium responsible for botulism (sausage-poisoning)?,factoid
+136,What is the association of spermidine with \u03b1-synuclein neurotoxicity?,factoid
+137,List symptoms of 4H leukodystrophy.,list
+138,"What is the extracellular core \""matrisome\""?",summary
+139,Is GAGA associated with nucleosome-free regions (NFR)?,yesno
+140,Which are the plant DNA (cytosine-5) methyltransferase families?,list
+141,Where is the histone variant CENPA preferentially localized?,factoid
+142,In which proteins is the chromodomain present?,list
+143,What is Genomicus?,summary
+144,Is amiodarone a class I anti-arrhythmic drug?,yesno
+145,Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?,factoid
+146,What is the COUGER tool?,summary
+147,Are there drugs for Tick-borne Encephalitis?,list
+148,Is SLC22A3 expressed in the brain?,yesno
+149,Has the protein TIEG1 been associated with apoptosis?,yesno
+150,Which is the cellular localization of the protein Opa1?,factoid
+151,Which are the drugs utilized for the burning mouth syndrome?,list
+152,Is PTEN involved in follicular thyroid carcinoma?,yesno
+153,Which genome browser database for DNA shape annotations is available?,factoid
+154,What is known about clinical efficacy of ceftriaxone for treatment of amyotrophic lateral sclerosis?,summary
+155,What is the relationship between TailorX and Oncotype?,summary
+156,Does strenuous physical activity affect thyroid hormone metabolism?,yesno
+157,"Which is the main function of \""RNA sponges\""?",summary
+158,Is the gene MAOA epigenetically modified by methylation?,yesno
+159,Which mutations of phopspholamban have been found in patients with cardiomyopathy?,list
+160,Which are the supplemental antioxidant in athletes?,list
+161,Is glycyl-tRNA synthetase gene involved in the development of Charcot-Marie-Tooth disease?,yesno
+162,Is there any software for automated analysis of FISH images?,yesno
+163,How do histone methyltransferases cause histone modification?,summary
+164,Is there an increased risk for cancer in Dyskeratosis Congenita?,yesno
+165,Does MicroRNA-21 (miR-21) contribute to cardiovascular disease?,yesno
+166,What is the enzymatic activity of the breast cancer associated gene BRCA1?,factoid
+167,List markers for autophagy.,list
+168,Are there any statistical methods for normalizing and identifying differential regions in histone modification ChIP-seq data?,yesno
+169,Is CD84 genetically associated with arthritis?,yesno
+170,What is the function of Neu5Gc (N-Glycolylneuraminic acid)?,factoid
+171,Are there any specific antidotes for rivaroxaban?,yesno
+172,Which metabolite activates AtxA?,factoid
+173,What is the function of 6SRNA in bacteria?,summary
+174,Is cytisine superior to nicotine replacement therapy for smoking cessation?,yesno
+175,Which amino acid residue appears mutated in most of the cases reported with  cadasil syndrome?,factoid
+176,Which syndromes are associated with mutations in the EZH2 gene?,list
+177,Which databases exist for experimentally determined topologies of \u03b1-helical transmembrane proteins ?,list
+178,Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract?,factoid
+179,"What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?",factoid
+180,How is oprozomib administered?,factoid
+181,What is a Caveolae?,summary
+182,Which are the roles of chromatin compartments in the eukaryotic nucleus?,list
+183,Is the abnormal dosage of ultraconserved elements disfavored in cancer cells?,yesno
+184,Does thyroid hormone regulate calcium transient in the myocardium?,yesno
+185,What are the biological roles proposed for proteins containing the SPRY domain?,list
+186,How could we infer functional associations from gene fusion events?,summary
+187,The protein NONO forms heterodimers. With which proteins?,list
+188,Which syndrome is associated with mutant DVL1?,factoid
+189,Are proteasome inhibitors good candidates for treatment of leukemia and solid tumors?,yesno
+190,Is there any link between CTF4 and CTF18 during sister chromatid cohesion?,yesno
+191,What is the Genomic Regions Enrichment of Annotations Tool (GREAT)?,summary
+192,What is the target of the drug Olaparib?,factoid
+193,Are thyroid hormone receptor alpha1 mutations implicated in thyroid hormone resistance syndrome?,yesno
+194,What is the role of RhoA in bladder cancer?,summary
+195,What is ATAC-seq?,summary
+196,List human proteins that are subject to a dimer-to-tetramer transition.,list
+197,Inhibition of which transporter is the mechanism of action of drug Canagliflozin?,factoid
+198,What is the prognostic role of thyroid hormone in patients with heart failure?,summary
+199,which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy?,list
+200,Which gene strand is targeted by transcription-coupled repair (TCR)?,factoid
+201,Abnormalities in which chromosomes were linked to the Moyamoya disease?,list
+202,Which is the branch site consensus sequence in U12-dependent introns?,factoid
+203,For what is Protein A from Staphylococcus aureus used in biochemistry?,summary
+204,What is the suggested therapy for Mycobacterium avium infection?,summary
+205,What is the treatment of acute pericarditis?,summary
+206,What is the genetic basis of tuberous sclerosis?,factoid
+207,What is the molecular function of the Chd1 protein?,factoid
+208,Which drugs are included in the FEC-75 regimen?,list
+209,Between which probes does the recurrent translocation breakpoint on chromosome 22 of neuroepithelioma lie?,list
+210,Does administration of triiodothyronine improve outcome following coronary artery bypass grafting?,yesno
+211,Which are the most widely used computational methods for the identification of CRMs (cis-regulatory modules)?,list
+212,Which enzyme does MLN4924 inhibit?,factoid
+213,Which protein has been found to interact with phospholamban (PLN) and is also an anti-apoptotic protein?,factoid
+214,Is long QT syndrome a cause for sudden cardiac death in athletes?,yesno
+215,What is the clinical value of MammaPrint?,summary
+216,Is protein M3/6 a dual specificity phosphatase?,yesno
+217,Are there focused databases from which you can retrieve gene expression data on renal disease?,yesno
+218,What systems have been developed for the numbering of antibody residues?,summary
+219,Are there any DNMT3 proteins present in plants?,yesno
+220,What is the number of protein coding genes in the human genome?,factoid
+221,Has vitamin D has been shown to reduce incidence of falls in older people in clinical trials?,yesno
+222,What is the indication for prophylactic use of antibiotics in COPD?,factoid
+223,Has depression been shown to be a predictor of frailty?,yesno
+224,What is the generic name of Gliolan?,factoid
+225,Is there any association between Jarid2 and miR-155 in Th17 cells?,yesno
+226,What is enCHIP?,summary
+227,How many genes does the human hoxD cluster contain?,factoid
+228,Is it safe to take isotretinoin during pregnancy?,yesno
+229,Which protein is the E3-ubiquitin ligase that targets the tumor suppressor p53 for proteasomal degradation?,factoid
+230,Can DNA intercalators function as topoisomerase inhibitors?,yesno
+231,Which diseases is microRNA 132 (miR-132) implicated in?,list
+232,Which are the human glutamate transporters?,list
+233,What are the functions of sorting nexin 27?,summary
+234,Do orphan and gene related CpG islands follow power-law-like distributions?,yesno
+235,What is the proportion of non canonical splice sites in the human genome?,factoid
+236,List protein gel staining methods visualizing the entire protein set.,list
+237,What clinical use aptamers may have?,summary
+238,"What is the causative agent of the \""Panama disease\"" affecting bananas?",factoid
+239,What is the mechanism of action of Nalmefene?,summary
+240,Synostosis of which cranial structures are characteristic to the Mercedes Benz syndrome?,list
+241,Can valproic acid act as an activator of AMPK?,yesno
+242,Which signaling pathways have been associated with medulloblastoma formation and growth?,list
+243,What is the role of invadopodia in EMT?,summary
+244,What are cancer driver genes?,summary
+245,What is a mitochondrial nucleoid?,summary
+246,What is the treatment of amiodarone-induced thyrotoxicosis?,summary
+247,How does exercise affect thyroid hormone receptors expression in the heart?,summary
+248,Is the Drosophila Translational Control Element (TCE) involved in spermatogenesis?,yesno
+249,What are the symptoms of abacavir hypersensitivity?,list
+250,What is the effect of ivabradine in heart failure with preserved ejection fraction?,summary
+251,Is low T3 syndrome a prognostic marker in patients with renal insufficiency?,yesno
+252,Does burning mouth syndrome preferentially affect post-mepopausal women?,yesno
+253,Which biomarker is widely used in the diagnosis of Ewing sarcoma?,factoid
+254,Proteomic analyses have revealed proteins associated with the triple-negative breast cancers. List some proposed proteins.,list
+255,Which signalling pathway is involved in Tuberous Sclerosis?,factoid
+256,Can life style changes reduce oxidative stress,yesno
+257,Which is the relation between sweating and anaerobic threshold?,factoid
+258,Name monoclonal antibody against SLAMF7.,factoid
+259,What is the mode of action of bedaquiline?,summary
+260,Does helicobacter pylori infection increase risk for ischemic stroke?,summary
+261,Which are the major types of the motor speech disorder dysarthria?,list
+262,Is oxidative stress affected by FOXO expression?,yesno
+263,Describe the mechanism of action of the LINX system for treatment of gastroesophageal reflux disease.,summary
+264,Which enzyme deficiency can cause GM1 gangliosidoses?,factoid
+265,What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.,factoid
+266,Which gene is involved in the development of Barth syndrome?,factoid
+267,What is the treatment of subacute thyroiditis?,summary
+268,What are the effects of BMAL1 deficiency?,summary
+269,Which histone modifications are associated with Polycomb group (PcG) proteins?,list
+270,Where is the protein CLIC1 localized?,summary
+271,List phosphorylation consensus motifs for Casein Kinase 1 (CK1)?,list
+272,What medication were compared in the ROCKET AF Trial?,list
+273,Describe the usefulness of the SPIKE database in human signaling pathways,summary
+274,Is the Dictyostelium discoideum proteome known?,yesno
+275,List proteins of lipids droplets,list
+276,What is the Barr body?,summary
+277,Is single-cell analysis (SCA) possible in proteomics?,yesno
+278,Is shotgun lipidomics the direct infusion of a lipid sample into a mass spectrometer?,yesno
+279,How many genes are in the gene signature screened by MammaPrint?,factoid
+280,Is apixaban effective for treatment of acute venous thromboembolism?,yesno
+281,Is the tricarboxylic acid (TCA) cycle affected in inflammation?,yesno
+282,What are the indications for treatment with anti-hepcidin?,list
+283,How many genera comprise the Flaviviridae family?,factoid
+284,Are reduced-nicotine cigarettes effective for smoking cessation?,yesno
+285,Is the Wnt protein modified by notum?,yesno
+286,List functions that are evaluated with the Full Outline of Unresponsiveness score?,list
+287,For the constructions of which organs has 3D printing been tested?,list
+288,Is ospemifene effective for treatment of dyspareunia?,yesno
+289,Is pregabalin effective for treatment of patients with restless leg syndrome?,yesno
+290,What is the biological role of expansins in fungi?,summary
+291,Can zinc finger nucleases be used to combat disease?,yesno
+292,What is known about depression in acoustic neuroma patients?,summary
+293,Mutation of which gene is associated with Achondroplasia?,factoid
+294,What is the mode of action of Hsp90 inhibitors?,summary
+295,Is RET the major gene involved in Hirschsprung disease?,yesno
+296,Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?,factoid
+297,What distinguishes lantibiotics from antibiotics?,factoid
+298,List three major features of the CCFDN syndrome.,list
+299,is intense physical activity associated with longevity ?,yesno
+300,Are cyclophilins proteins that bind to prolines?,yesno
+301,Can a given genotype exhibit opposite fitness effects (beneficial and detrimental) within the same environment?,yesno
+302,Has the protein SETMAR (Metnase) a transposase domain?,yesno
+303,Is alternative splicing of apoptotic genes playing a role in the response to DNA or mitochondrial damage?,yesno
+304,Which oncogenes are able to induce cellular senescence?,list
+305,What is HbVar?,summary
+306,Can DMSO as an additive improve proteomic analysis results?,summary
+307,The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies. Which protein are they targeting?,factoid
+308,Which are the different proteins/isoforms encoded but the ASPH (aspartate beta-hydroxylase) gene in humans?,list
+309,List processes which are under the control of the YAP protein.,list
+310,What family do mDia proteins belong in?,factoid
+311,Is nucleosome eviction ATP-dependent?,yesno
+312,Is TREM2 associated with Alzheimer's disease in humans?,yesno
+313,"Which is the most common measure of differences between dinucleotide relative abundance \""genomic signatures\""",factoid
+314,Name a method for enrichment of arginine-methylated peptides.,factoid
+315,"Why do we use \""N-terminal proteomics\""?",summary
+316,List omics technologies comprised in system biology.,list
+317,Rindopepimut is an analog of which growth factor?,factoid
+318,Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?,list
+319,From which tissue was the NCI-H520 cell-line derived?,factoid
+320,Have mutations in the Polycomb group been found in human diseases?,yesno
+321,Describe the mechanism of action of drisapersen,summary
+322,Is microRNA(miRNA) 29 involved in post-ischemic cardiac remodeling?,yesno
+323,What is the incidence of Edwards syndrom in the european population?,factoid
+324,Is exonuclease Xrn1 a component of the P-bodies?,yesno
+325,What is the substrate of the microbial enzyme inulinase?,factoid
+326,What is the treatment of acute myocarditis?,list
+327,List causative genes for autosomal recessive forms of monogenic Parkinson's disease,list
+328,How does ranolazine affect calcium handling in the heart,summary
+329,Which is the primary distinction between the Reverse Warburg effect and the conventional Warburg effect?,summary
+330,What is the role of per genes in circadian rhythm control?,summary
+331,Can sorafenib activate AMPK?,yesno
+332,"What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?",factoid
+333,When was empagliflozin FDA approved?,factoid
+334,Is Vortioxetine effective for treatment of depression?,yesno
+335,Which R/bioconductor package is used for integrative genomics visualizations?,factoid
+336,List symptoms of congenital toxoplasmosis triad.,list
+337,How many genes are imprinted in the human genome?,factoid
+338,Is exome sequencing efficient for the detection of germline mutations?,yesno
+339,Which cellular processes are regulated by Nanog?,list
+340,In which cells are A-type lamins expressed?,factoid
+341,What is the definition of autophagy?,summary
+342,Gene silencing can be achieved by RNA interference (RNAi) in eukaryotic organisms. What is the name of the analogous process in prokaryotic organisms?,factoid
+343,Between which types of DNA bases are mutational biases introduced due to directional mutation pressure?,summary
+344,Is it feasible to determine the complete proteome of yeast?,yesno
+345,Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy?,list
+346,Which are the cardiac manifestations of Marfan syndrome?,list
+347,"How is connected \""isolated Non-compaction cardiomyopathy\"" with dilated cardiomyopathy?",factoid
+348,What is the role of AMPK in diabetic cardiomyopathy?,summary
+349,Are circRNAs associated with diseases and traits?,yesno
+350,Which is the most common cause of sudden cardiac death in young athletes?,factoid
+351,Could the Menzerath-Altmann law be proved mathematically trivial in genomes?,yesno
+352,What is the rate of survival after commotio cordis?,factoid
+353,What is the oldest human sample analysed by paleontology proteomics?,summary
+354,What are the results of loss of the protein Lon1 in the plant Arabidopsis?,list
+355,Which gene is involved in Giant Axonal Neuropathy?,factoid
+356,"Are there studies representing the involvement of Notch mutations in neurodegenerative diseases such as Down syndrome, Pick's and Prion's disease, and cadasil syndrome?",yesno
+357,Are there any functional differences between Mfd and its human Cocaine syndrome protein B (CSB) homolog?,yesno
+358,What is membrane scission?,summary
+359,How many TAp73 isoforms have been identified in humans?,factoid
+360,Is the yeast \u039cac1 transcription factor induced upon copper deficiency?,yesno
+361,What is the mechanism of DNA replication termination in vertebrates?,summary
+362,Which are the different members/isoforms of the Ras oncogenes?,list
+363,Which is the  subcellular localization of ERAP2?,factoid
+364,Have thyronamines  effects on fat tissue?,yesno
+365,What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients?,list
+366,Is there a package in R/bioconductor for classification of alternative splicing?,yesno
+367,Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression?,list
+368,Is alemtuzumab effective for remission induction in patients diagnosed with T-cell prolymphocytic leukemia?,yesno
+369,What is the association between moon cycle and rupture risk  of intracranial aneurysms?,summary
+370,Is there an association between TERT promoter mutation and survival of glioblastoma patients?,yesno
+371,Is bapineuzumab effective for treatment of patients with Alzheimer's disease?,yesno
+372,Which deiodinase polymorphisms are implicated in arterial hypertension?,list
+373,At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?,factoid
+374,Is intense physical activity associated with longevity?,yesno
+375,How homoplasy affects phylogenetic reconstruction?,summary
+376,What is known about the association between the use of selective serotonin reuptake inhibitors during pregnancy and risk for autism in offspring?,summary
+377,Which transcription factors are involved in E-cadherin repression during EMT?,list
+378,Is desmin an intermediate filament protein involved in Dilated Cardiomyopathy (DCM)?,yesno
+379,Is lambrolizumab effective for treatment of patients with melanoma ?,yesno
+380,List human diseases involving genomic imprinting.,list
+381,Why are insulators necessary in gene therapy vectors?,summary
+382,Which deficiency is the cause of restless leg syndrome?,factoid
+383,What histone modification is recognized by the bromodomain?,factoid
+384,"What memory problems are reported in the \"" Gulf war syndrome\""?",list
+385,Is cadasil syndrome a hereditary disease?,yesno
+386,Which neuroendocrine tumors are associated with specific tumor syndromes?,list
+387,How many periods of regulatory innovation led to the evolution of vertebrates?,factoid
+388,Is nintedanib effective for Idiopathic Pulmonary Fibrosis?,yesno
+389,What is the role of SERCA in diabetic cardiomyopathy?,summary
+390,Is pesticide exposure associated with polyneuropathy?,yesno
+391,What is the methodological principle of ChIA-PET?,summary
+392,Is there an association between borna virus and brain tumor?,yesno
+393,List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia?,list
+394,Does PU.1 (SPI1) affect NF-kB binding?,yesno
+395,Does the majority of the mitochondrial genomes abide to the second parity rule (PR2)?,yesno
+396,What is the association between h-index and academic rank in academic neurosurgery?,summary
+397,Is there an association between bruxism and reflux?,yesno
+398,What is known about the value of mindfulness interventions in prostate cancer patients?,summary
+399,What is known about prostate cancer screening in the UK ?,summary
+400,Which hormone abnormalities are common in Williams syndrome ?,factoid
+401,The secreted frizzled-related protein 3 (sFPR3) is altered in human cancers.\nAre its level found to increase or to decrease?,summary
+402,Albumin depletion is a common first step for proteomic analysis of CSF fluid. What is the advantage and disadvantage of this procedure?,summary
+403,How are lincRNA affecting the regulation of gene expression?,summary
+404,Which is the protein encoded by the human gene GRIK?,factoid
+405,Which residue of alpha-synuclein was found to be phosphorylated in Lewy bodies?,factoid
+406,Is paroxetine effective for treatment of premenstrual dysphoric disorder?,yesno
+407,What is known about thalidomide therapy and survival of glioblastoma patients?,summary
+408,Is endostatin a proangiogenic factor?,yesno
+409,List Genes associated with adolescent idiopathic scoliosis,list
+410,Can botulism poisoning of a pregnant woman harm her fetus?,yesno
+411,List the off-label use of SSRIs,list
+412,Which is the definition of pyknons in DNA?,summary
+413,Does a linker histone exist in the yeast genome?,yesno
+414,What is the role of deadenylases in the cell?,summary
+415,What molecule is targeted by brodalumab?,factoid
+416,"How long, in kb (kilobases),  is a \""Long interspersed nuclear element\""?",factoid
+417,Which is the gene mutated in type 1 neurofibromatosis?,factoid
+418,List receptors of the drug Cilengitide,list
+419,Can protein coding exons originate from ALU sequences?,yesno
+420,How could U1 small nuclear RNA be used in therapeutics?,summary
+421,What is the influence of patent expiry on  ACE inhibitor prescribing.,summary
+422,Is there evidence that tomato juice lowers cholesterol levels?,yesno
+423,Are there transposon-free regions in mammalian genomes?,yesno
+424,Are messenger RNA molecules epigenetically methylated?,yesno
+425,Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia,list
+426,How effective is the dentritic cells treatment on cancer?,summary
+427,What is the mode of inheritance of nemaline myopathy?,factoid
+428,Which syndrome is NHE6 associated with?,factoid
+429,What is known about the reimbursement of Viagra,summary
+430,Why is lock mass used in Orbitrap measurements?,summary
+431,Which virus is Cidofovir (Vistide) indicated for?,factoid
+432,Have gnotobiotic animal models been used for the study of bowel disease?,yesno
+433,List chromosomes that have been linked to Arnold Chiari syndrome in the literature.,list
+434,Which translocation is the hallmark of Ewing sarcoma?,factoid
+435,Is invasion and metastasis one of the hallmarks of cancer?,yesno
+436,Is it possible to detect survivin protein expression in normal human adult tissues?,yesno
+437,List symptoms of Meigs' Syndrome.,list
+438,What is the effect of CRD-BP on the stability of c-myc mRNA?,factoid
+439,What is the molecular function of psoralen photobinding on DNA?,factoid
+440,Is progesterone effective for treatment of patients with traumatic brain injury based on clinical trial data?,yesno
+441,Is there a role for the cylindromatosis tumor suppressor (CYLD) in lung cancer?,yesno
+442,Which medical diagnostic tests are used to test kidney function?,list
+443,Against which protein is the antibody used for immonostaining of Lewy bodies raised?,factoid
+444,Which are the main causes of fetal echogenic bowel?,list
+445,How does trimetazidine affect intracellular kinase signaling in the heart?,summary
+446,Which is the enzymatic activity of the myotubularin family of proteins?,factoid
+447,"Can we detect DNA strand asymmetries using dinucleotide relative abundance \""genomic signatures\""?",yesno
+448,What is the percentage of responders to tetrabenazine treatment for dystonia in children?,factoid
+449,Is there any relationship between histone ubiquitylation and splicing?,yesno
+450,Which disease can be treated with Delamanid?,factoid
+451,What was the aim of the COSS (Carotid Occlusion Surgery Study) clinical trial?,summary
+452,What are the advantages of the top down mass spectrometric analysis of histones?,list
+453,What is situs inversus?,factoid
+454,Can SUMO affect calcium homeostasis?,yesno
+455,What is the indication of Daonil (Glibenclamide)?,factoid
+456,Which is the most typical peptide sequence responsible for retrieval of endoplasmic reticulum (ER) lumenal proteins from the Golgi apparatus?,factoid
+457,What are the clinical trial outcomes of metformin use in polycystic ovary disease?,summary
+458,List the main proteases used for sample digestion in proteomics.,list
+459,Which proteins act as factors that promote transcription-coupled repair in bacteria?,list
+460,What is the association between Generalized anxiety disorder and mortality risk?,summary
+461,Which molecule is targeted by a monoclonal antibody Mepolizumab?,factoid
+462,Which is the major symptom of the Doose syndrome?,factoid
+463,Have mutations in the GARS gene been identified to cause Charcot-Marie-Tooth Disease Type 2D (CMT2D)?,yesno
+464,Which treatment leads to an increase in neutrophil counts in severe congenital neutropenia?,summary
+465,Which genes are affected in ROMANO-WARD syndrome?,list
+466,Does melanoma  occur in people of African origin ?,yesno
+467,What is the effect of resveratrol on mTOR activity?,summary
+468,Are people with blood group O protected against severe Malaria?,yesno
+469,Which eye condition is managed by the athens protocol?,factoid
+470,What is the role of AMPK kinase in myocardial remodeling after myocardial infarction,summary
+471,What is the mechanism of action of solanezumab?,summary
+472,What are the major clinical Villefranche criteria for classic Ehlers-Danlos syndrome?,list
+473,What is the treatment of neuropathic pain in children?,list
+474,"Which phenomenon is known as the \""calcium paradox\"" in the isolated perfused heart?",summary
+475,Is there a crystal structure of the full-length of the flaviviridae NS5(Methyltransferase - RNA depended RNA Polymerase) ?,yesno
+476,How do Hsp70 and Hsp110 affect mRNA stability?,summary
+477,What is Prudent Diet?,summary
+478,What is the role of necroptosis in cancer therapy?,summary
+479,Can venlafaxine block NET and SERT?,yesno
+480,Is Rheumatoid Arthritis more common in men or women?,factoid
+481,What is FINDbase?,summary
+482,Can vitamin B1 deficiency cause encephalopathy?,yesno
+483,Which methyl-CpG-binding protein when mutant becomes the hallmark for Rett syndrome?,factoid
+484,Are epigenetic modifications implicated in cardiovascular development and disease?,yesno
+485,Which deiodinases are present in skeletal  muscle?,list
+486,Which genes are involved in patient response to warfarin?,list
+487,Which is the molecular weight of the protein angiogenin?,factoid
+488,List sodium glucose co-transporter-2 (SGLT2) inhibitors that have been FDA approved for type 2 diabetes mellitus treatment.,list
+489,What is the gene mutated in the Gaucher disease?,factoid
+490,Why does the prodrug amifostine (ethyol) create hypoxia?,summary
+491,What is considered a reliable technique for the definitive cytogenetic diagnosis of Fanconi anemia homozygosity?,summary
+492,Can exosomes be detected in urine?,yesno
+493,What is the role of lysine-specific demethylase 1 (LSD1) in hematopoiesis?,summary
+494,For the treatment of which conditions can atypical neuroleptic drugs be used?,list
+495,Which are the characteristics of  Andersen syndrome?,list
+496,How are induced pluripotent stem cells used in the study and treatment of cardiovascular diseases?,summary
+497,Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome?,factoid
+498,Which protein is causing Netherton syndrome?,factoid
+499,Mutations in which gene and which protein are associated with Netherton syndrome?,list
+500,Which disease of the central nervous system is characterized by the presence of Lewy bodies?,factoid
+501,Which deiodinase is known to be present in liver?,factoid
+502,Which proteins participate in the formation of the Notch transcriptional activation complex?,list
+503,How is the sequence variability defined in antibodies?,summary
+504,Is the transcriptional regulator BACH1 an activator or a repressor?,factoid
+505,Is Kanzaki disease associated with deficiency in alpha-N-acetylgalactosaminidase?,yesno
+506,Is Mycobacterium avium less susceptible to antibiotics than Mycobacterium tuberculosis?,yesno
+507,What molecule is targeted by suvorexant?,factoid
+508,For which type of diabetes can empagliflozin be used?,factoid
+509,Which are the main methods for pharmacophore modelling?,list
+510,Are there conserved noncoding elements identified between genomes of human and teleosts?,yesno
+511,How early during pregnancy does non-invasive cffDNA testing allow sex determination of the fetus?,factoid
+512,Does cortical spreading depression appear in ischemic penumbra following ischemic stroke?,yesno
+513,Is phospholamban a regulatory/inhibitory protein of the Ca ATPase SERCA?,yesno
+514,What is TFBSshape?,summary
+515,Is Alpers disease inherited in an autosomal recessive mode?,yesno
+516,Is vemurafenib effective for hairy-cell leukemia?,yesno
+517,Which are the inhibitors of histone methyltransferases?,list
+518,What is the main characteristic of Amyotrophic Lateral Sclerosis?,summary
+519,Which genes are regulated by MEF-2 in the heart?,list
+520,Is there an association between TERT promoter mutation and survival of glioma patients?,yesno
+521,Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?,factoid
+522,Which is the mechanism used for synthesis of a highly functional N-truncated dystrophin isoform that attenuates dystrophinopathy?,summary
+523,Which are the newly identified DNA nucleases that can be used to treat thalassemia?,list
+524,Does ziconotide bind to N-type calcium channels?,yesno
+525,How is OCT3 associated with serotonin?,factoid
+526,What constitutes an increased risk for individuals with Fanconi anemia?,summary
+527,Is stop codon bypass possible?,yesno
+528,Is the protein \u03b21-integrin recycled?,yesno
+529,Are BBS mutations involved in syndromic Hirschsprung disease?,yesno
+530,Which signaling pathway is activating the dishevelled proteins?,factoid
+531,Which is the defective protein causing the lysosomal storage disease Fabry?,factoid
+532,Is there any software for automated analysis of immuno-histochemistry images?,yesno
+533,Is TALEN being used on stem cells?,yesno
+534,Is there an association between bruxism and reflux,yesno
+535,what is the role of IGF-1 in cardiac regeneration after myocardial infarction?,summary
+536,What is known about prostate cancer screening in the UK,summary
+537,Can a peptide aptamer be used as protein inhibitor?,yesno
+538,List inflammatory caspase proteins?,list
+539,List invertebrates where ultraconserved elements have been identified.,list
+540,Which gene is most commonly associated with severe congenital and cyclic neutropenia?,factoid
+541,what is the role of TGFbeta in cardiac regeneration after myocardial injury?,summary
+542,List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma,list
+543,Are integrins part of the extracellular matrix?,yesno
+544,Is Calcium homeostasis important in cardiac physiology and pathophysiology?,yesno
+545,List available databases containing information about conserved noncoding elements.,list
+546,What was the purpose of the FANTOM5 project?,factoid
+547,Is the gene DUX4 epigenetically regulated in somatic cells?,yesno
+548,What is the function of the mammalian gene Irg1?,summary
+549,Have hESC been tested for the treatment of age-related macular degeneration?,yesno
+550,What disease in Loxapine prominently used for?,factoid
+551,What is the systemic nickel allergy syndrome?,summary
+552,Which antibodies cause Riedel thyroiditis?,factoid
+553,What are the effects of ILK ablation?,list
+554,Does d-tubocurarine (d-TC) induces irreversible inhibition of nicotinic acetylcholine receptor (nAChR) at the neuromuscular junction?,yesno
+555,Which receptors are bound by Tasimelteon?,list
+556,Is zyxin a focal adhesion protein?,yesno
+557,What is the role of ELMO1 gene in cell migration?,summary
+558,What is the biological role of K-48 linked protein ubiquitination?,summary
+559,Could DNA (cytosine-5-)-methyltransferases serve as tumour markers?,yesno
+560,Which RNA polymerase is used for the replication of viroids?,list
+561,List Parkin binding partners,list
+562,What is generic name of drug Adempas?,factoid
+563,What is known about Vancomycin dosing in neonates?,summary
+564,Is single guide RNA part of the CRISPR/Cas9 tool or an inhibitor of its function?,factoid
+565,What is the target protein of the drug Idelalisib?,factoid
+566,Which antiepileptic drug is most strongly associated with spina bifida?,factoid
+567,Which bacteria caused plague?,factoid
+568,The drug JTV519 is derivative of which group of chemical compounds?,factoid
+569,Is the long non- coding RNA malat-1 up or downregulated in cancer?,factoid
+570,Oxantel is used for periodontitis treatment. How does it work?,factoid
+571,What is apelin?,factoid
+572,What is the function of the protein encoded by the gene PABPC4?,factoid
+573,What kind of enzyme is encoded by the proto-oncogene ABL1?,factoid
+574,What is the mode of inheritance of Romano Ward long QT syndrome?,factoid
+575,Which histone modifications have been associated to alternative splicing?,summary
+576,Is phospholamban phosphorylated by Protein kinase A?,yesno
+577,Are there telemedicine applications for chronic pain management?,yesno
+578,What is a P-body (processing body)?,summary
+579,What is the mechanism of action of decitabine?,summary
+580,Which gene is associated with the Mitchell-Riley syndrome?,factoid
+581,Is paramyxovirus involved in human subacute thyroiditis?,yesno
+582,What are the mobile applications fields of use for patients ?,list
+583,Is there any link between the aurora B kinase and the polycomb protein ring1B?,yesno
+584,Which are the genes responsible for Dyskeratosis Congenita?,list
+585,Is CD99 encoded by MIC2 gene?,yesno
+586,Name five programs for transcript quantification from RNASeq experiments,list
+587,"What are the main characteristics/symptoms of the \""Brugada\"" syndrome",summary
+588,What is the main component of the Lewy bodies?,factoid
+589,How does thyroid hormone regulate mitochondrial biogenesis in the myocardium?,summary
+590,What is the link between HOT regions and RNA polymerase recruitment?,factoid
+591,List variants of the MC1R gene.,list
+592,Which is the enzyme that degrades decapped mRNAs?,factoid
+593,Which phenotypes are associated with heterozygous mutations of the BSCL2 gene?,list
+594,Which is the target protein of the drug nivolumab?,factoid
+595,The CXCR2 receptor is targeted in cancer. Name five antagonists.,list
+596,What is the genomic structure of the FAA (FANCA) gene?,summary
+597,What is Snord116?,summary
+598,What is the functional role of the protein Drp1?,factoid
+599,Which is the genetic cause for the development of Fanconi anemia complementation group D1?,summary
+600,Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?,list
+601,What are the most frequent non-canonical sequence motifs at the donor and acceptor splice sites in vertebrates?,summary
+602,What does isradipine do to L-type channels?,factoid
+603,Why does cranberry juice help combat urinary tract infections?,summary
+604,In which diseases have electronic patient diaries been applied ?,list
+605,Which type of myeloma is ixazomib being evaluated for?,factoid
+606,Which are the Atg8 homologs in human?,list
+607,To which family does the Zika virus belong?,factoid
+608,Has the fungus Ashbya gossypii got many nuclei that share cytoplasm?,yesno
+609,What is the functionality of the Triplex R/bioconductor package?,summary
+610,Which is the molecular mechanism underlying K-ras alterations in carcinomas?,factoid
+611,Is microRNA(miRNA) 30 involved in post-ischemic cardiac remodeling?,yesno
+612,List all clinical trials of the polypill.,list
+613,What is transvection?,summary
+614,What is the role of probiotics in gastrointestinal disease?,summary
+615,What is the main symptom of Marfan syndrome patients?,factoid
+616,What species is associated with Tetrodotoxin?,summary
+617,How is myotonic dystrophy inherited?,factoid
+618,How do HBS1L-MYB intergenic variants regulate fetal hemoglobin?,summary
+619,Which are the mammalian orthologs of Drosophila Yki?,list
+620,Is statin use associated with improved outcomes after aneurysmal subarachnoid hemorrhage?,yesno
+621,What is the typical outer diameter of microtubules (tubulin heterodimers)?,factoid
+622,Does molindone affect body weight?,yesno
+623,What is the genetic basis of propionic acidemia?,summary
+624,"Which protein phosphatase has been found to interact with the heat shock protein, HSP20?",factoid
+625,What is the risk in G-CSF treatment for severe congenital neutropenia?,summary
+626,Neurostimulation of which nucleus is used for treatment of dystonia?,factoid
+627,Which myosin isozymes are located within the pericuticular necklace of the hair cell?,list
+628,Which is the treatment strategy followed in spinocerebellar ataxia type 3 for CAG removal?,summary
+629,Where is the angiogenin binding element  located?,summary
+630,Which proteins cause cytoplasmic sequestration of NF-kB?,list
+631,Is the SDHAF2 gene  encoding a protein necessary for flavination of SDHA?,yesno
+632,What is the mode of inheritance of Marchesani syndrome?,factoid
+633,Tumor-treating fields are effective for treatment of which cancers?,list
+634,Which event results in the acetylation of S6K1?,summary
+635,List angiocrine factors,list
+636,What is protein carbamylation?,summary
+637,What is the cause of episodic ataxia type 6?,factoid
+638,What is the main role of Ctf4 in dna replication?,factoid
+639,Could Arimidex (anastrozole) cause hot flashes?,yesno
+640,What is the role of Inn1 in cytokinesis?,summary
+641,Which hormone deficiency is implicated in the Costello syndrome ?,factoid
+642,List the components of a Replisome Progression Complex (RPC).,list
+643,What is the definition of minimal absent words?,summary
+644,What is the common feature in congenital central hypoventilation and Mowat-Wilson syndromes?,summary
+645,Which is the most common CFTR mutation in Caucasians?,factoid
+646,Which CDK targets control cytokinesis?,list
+647,Are Alu elements transcribed?,yesno
+648,In what type(s) of plant organelles we can detect prolamellar bodies?,list
+649,What do mepolizumab and reslizumab have in common?,list
+650,When are itaconic acid levels elevated?,factoid
+651,Are chromomethylases present in animal genomes?,yesno
+652,Which genes are associated with autosomal dominant Charcot-Marie-Tooth?,list
+653,Which transcription factors (TFs) participate in the formation of the interferon-beta (IFN-b) enhanceosome?,list
+654,Is low T3 syndrome related with high BNP in cardiac patients?,yesno
+655,List packages for transcription factor binding sites' (TFBS) analysis available in R/Bioconductor,list
+656,Simpson grading is used to describe resection of which brain tumor?,factoid
+657,Where in the cell do we find the protein Cep135?,factoid
+658,Is delayed enhancement documented in patients with non-ischemic dilated cardiomyopathy?,yesno
+659,Which enzyme is inhibited by Varespladib?,factoid
+660,Which protein does empagliflozin inhibit?,factoid
+661,What symptoms characterize the Muenke syndrome?,summary
+662,List all reported treatment options for anxiety in autism spectrum disorder.,list
+663,List adenosine A2A receptor antagonists that are used for Parkinson's disease treatment.,list
+664,What is the clinical indication of cardiac T1 mapping magnetic resonance?,factoid
+665,Which autophagy pathway is trigered by the KFERQ motif of cytosolic proteins?,factoid
+666,Which are the clinical characteristics of TSC?,list
+667,How does dabigatran therapy affect aPTT in patients with atrial fibrillation?,summary
+668,List fish anti-freeze proteins.,list
+669,Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?,factoid
+670,Has overexpression of sirtuins been reported to increase lifespan in budding yeast (Saccharomyces cerevisiae)?,yesno
+671,Name the major classes of small  non coding RNAs in mammalians?,list
+672,Describe a diet that reduces the chance of kidney stones.,factoid
+673,What pharmacological and non-pharmacological interventions can be considered as prophylactic therapies in Cluster Headache patients?,summary
+674,How does phospholamban affect the biological activity of the calcium ATPase SERCA?,summary
+675,List the components of mTOR Complex 2 (mTORC2).,list
+676,What is known about the Digit Ratio (2D:4D) cancer?,summary
+677,Is TREM2 associated with Alzheimer's disease?,yesno
+678,Does the protein mTOR regulate autophagy?,yesno
+679,Which are the mains risk factors of metabolic syndrome?,list
+680,Which multiple kinase inhibitors are used in cancer therapy?,list
+681,Has proteomics been used in the study of Pick's disease?,yesno
+682,Are there any urine biomarkers for bladder cancer diagnosis?,yesno
+683,List types of avoided words in bacterial genomes,list
+684,Which gene(s) should be genotyped in order to prescribe the drug Cetuximab (anti-EGFR)?,list
+685,Is signal transducer and activator of transcription-3 (STAT3) critical for tumor angiogenesis progression?,yesno
+686,Which is the physiological target for LeuRS translational quality control?,factoid
+687,Is sumoylation implicated in myogenesis?,yesno
+688,What do studies show about the effect of Induced hypothermia in premature babies?,summary
+689,Describe what is the advantage of using a stain free protein gel in a Western Blot experiment?,summary
+690,Which is the target of the drug Denosumab?,factoid
+691,Which enzyme is inhibited by a drug fostamatinib?,factoid
+692,Is the Miller-Fisher syndrome considered to be a variant of Guillain-Barr\u00e9?,yesno
+693,Is Ctf4 involved in sister chromatid cohesion establishment?,yesno
+694,What states the second parity rule (PR2)?,summary
+695,Are retroviruses used for gene therapy?,yesno
+696,Do lincRNAs play a role in human cancer?,yesno
+697,Explain the concept proteostasis.,summary
+698,Which gene test can be used for the X-linked myotubular myopathy?,factoid
+699,Is there a phylogenetic analysis for HIV?,yesno
+700,What is the association between adiponectin and migraine?,summary
+701,Which phenomenon is described as oncogene addiction?,summary
+702,Are there randomised controlled trials on sevoflurane?,yesno
+703,In which cells are gasdermins expressed?,factoid
+704,Where in a protein can a signal sequence be found?,factoid
+705,Can FOXOs modulate longevity?,yesno
+706,Which antibody is implicated in the Bickerstaff's brainstem encephalitis?,factoid
+707,Which micro-RNAs have been associated in the pathogenesis of Rheumatoid Arthritis?,list
+708,Is there an association between FGFR3 mutation and plagiocephaly?,yesno
+709,Are CD44 variants (CD44v) associated with poor prognosis of metastasis?,yesno
+710,Is Bladder training an effective method to treat  urge incontinence ?,yesno
+711,What is the scope of the OMIA database?,summary
+712,What is the effect of methotrexate in treating uveitis due to juvenile idiopathic arthritis ?,summary
+713,Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?,list
+714,What is HOCOMOCO?,summary
+715,In which condition was protein S100A7 originally identified?,factoid
+716,Do proton pump inhibitors affect thyroxine absorption?,yesno
+717,Is PER3 required for CHK2 activation in human cells?,yesno
+718,What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?,factoid
+719,Which proteins are involved in actin bundling and filopodia formation and function?,list
+720,What does the SAGA complex acronym stands for?,factoid
+721,What is the result of the interaction between TSC1 and PLK1?,summary
+722,"What are the characteristics of the \""Universal Proteomics Standard 2\"" (UPS2)?",summary
+723,Which polyQ tract protein is linked to Spinocerebellar Ataxia type 2?,factoid
+724,Which are the smallest known subviral pathogens of plants?,factoid
+725,What causes Katayama Fever?,factoid
+726,List clinical trials for prevention of sarcopenia,list
+727,Which is the database of molecular recognition features in membrane proteins?,factoid
+728,Which database is available for the identification of chorion proteins in Lepidopteran proteomes?,factoid
+729,Are there any clinical trials of the effect of evening primrose oil on postmenopausal symptoms ?,yesno
+730,Is acid alpha-glucosidase the enzyme that causes Pompe disease when mutant?,yesno
+731,Which kinase is inhibited by Tripolin A?,factoid
+732,Is the optogenetics tool ChR2 light-sensitive?,yesno
+733,Is the Prostate- Specific Antigen (PSA) test relevant only for prostate cancer?,yesno
+734,List symptoms of Hakim Triad.,list
+735,Which is the cellular target of gefitinib?,factoid
+736,What kind of bonds are connecting keratin molecules?,list
+737,Is autism one of the characteristics of Moebius syndrome?,yesno
+738,Is Sarcolipin a regulatory/inhibitory protein of the Calcium ATPase SERCA?,yesno
+739,What is the risk of developing acute myelogenous leukemia in Fanconi anemia?,factoid
+740,How many different mutations have been associated with Muenke syndrome?,factoid
+741,How can the fetal Rhesus be determined with non-invasive testing?,factoid
+742,Which genes have been proposed as potential candidates for gene therapy of heart failure?,list
+743,DX-88 is investigational name of which drug?,factoid
+744,What type of arrhythmia is known as bidirectional ventricular tachycardia (BDVT)?,summary
+745,Which genes have been found to be associated with restless leg syndrome,list
+746,Is the circadian clock involved in ribosome biogenesis?,yesno
+747,Can mutations in Calmodulin cause ventricular fibrillation?,yesno
+748,Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency?,factoid
+749,Where does TORC1 sequester during heat stress?,summary
+750,Is rivaroxaban metabolized in kidneys?,yesno
+751,What are the side effects of Nalmefene?,list
+752,Is Hirschsprung disease one of the characteristics of the Mowat-Wilson syndrome?,yesno
+753,Which are the most common methods for gene prioritization analysis?,list
+754,Which is the most common disease attributed to malfunction or absence of primary cilia?,factoid
+755,What is the usefulness of ultraconserved elements in phylogeny?,summary
+756,Treprostinil is an analogue for which prostaglandin?,factoid
+757,Which are the characteristics of the Meier-Gorlin syndrome?,summary
+758,Which enzyme is deficient in Gaucher's disease?,factoid
+759,What is the role of Hsp90 inhibition in cancer therapy?,summary
+760,Which is the most common type of pediatric cerebellar tumor?,factoid
+761,Which is the E3 ubiquitin ligase of Hsp90?,factoid
+762,Which are the major phycobiliproteins present in cyanobacteria?,list
+763,Is PLK2 involved in alpha-synuclein phosphorylation in the nervous system?,yesno
+764,"In which kingdom do microsporidia belong, according to their current classification scheme?",factoid
+765,What is the inheritance pattern of Emery-Dreifuss muscular dystrophy?,list
+766,What is the mechanism of action of anticoagulant medication Dabigatran?,summary
+767,What is the effect of a defective CLN3 gene?,factoid
+768,Which genes are regulated by TRalpha2  in the heart?,list
+769,Is insulin-like growth factor-I (IGF-I) able to affect tendon protein synthesis in classic Ehlers-Danlos syndrome patients?,yesno
+770,List available methods for transmembrane protein topology prediction.,list
+771,Does GC content vary markedly within a given isochore?,yesno
+772,Is tubulin acetylation involved in cell motility?,yesno
+773,List available genetic multicolor cell labeling techiniques in Drosophila,list
+774,Which growth factors are known to be involved in the induction of EMT?,list
+775,What is the function of the yeast protein Aft1?,summary
+776,Can PLN mutations lead to dilated cardiomyopathy?,yesno
+777,Which is the genetic lesion associated with Huntington\u2019s disease?,factoid
+778,Is corpus callosum involved in the Mowat\u2013Wilson syndrome?,yesno
+779,Which histone modification discriminates between active and poised enhancers?,list
+780,What are the properties of super-enhancers?,list
+781,What is the inheritance pattern of Li\u2013Fraumeni syndrome?,factoid
+782,Which pituitary adenoma is common cause of infertility is women?,factoid
+783,What is the role of mismatched uracil glycosylase (Mug) in DNA repair?,summary
+784,Which are the cardiac effects of thyronamines?,list
+785,Matuzumab has been tested for treatment of which cancers?,list
+786,Which are the synonyms of prostate-specific antigen?,list
+787,What is the lipid droplet used for in the cell?,factoid
+788,What is the function of circular RNA?,factoid
+789,Can NXY-059 be used for treatment of acute ischemic stroke patients?,yesno
+790,Is flibanserin effetive for Hypoactive Sexual Desire Disorder?,yesno
+791,List available biomedical question answering systems.,list
+792,Which dediodinases are present in kidney?,list
+793,What is the presumed key event in Fanconi anemia pathogenesis?,factoid
+794,What is the effect of Allopurinol on asphyxia in neonates?,summary
+795,Is recommended the use of perioperative treatment with thyroid hormone therapy in patients undergoing coronary artery bypass grafting?,yesno
+796,When is the protein NFL a biomarker?,summary
+797,Is protein CXCR4 used as a prognostic marker of cancer?,yesno
+798,How does thyroid  hormone  regulate  SR-Ca2+ ATPase  (SERCA) protein in the heart?,summary
+799,Which trancription factor activates the betalain pathway?,factoid
+800,List common symptoms of patients with the DOORS syndrome.,list
+801,Which is the most well-accepted method for Down syndrome non-invasive prenatal diagnosis?,summary
+802,Is the H3K4me3 histone mark related to transcriptional initiation or elongation?,factoid
+803,What does polyadenylate-binding protein 4 (PABP4) bind to?,factoid
+804,What is the average diameter of intermediate filaments?,factoid
+805,Elaborate on the association between Genomic Regulatory Blocks (GRBs) and target genes,summary
+806,Which therapeutic interventions for sarcopenia have been  applied,summary
+807,What is the genetic basis of progeria?,summary
+808,What is the function of cryptochrome-1 in mouse?,factoid
+809,Describe July Effect.,summary
+810,Which intermediate filament (IF) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone?,factoid
+811,Which enzyme is involved in the maintenance of DNA (cytosine-5-)-methylation?,factoid
+812,Is transcapillary  albumin escape altered in diabetic patients?,yesno
+813,Which genes does thyroid hormone receptor beta1 regulate in the liver?,list
+814,Are conserved noncoding elements associated with developmental genes?,yesno
+815,In what proportion of children with heart failure has Enalapril been shown to be safe and effective?,factoid
+816,Is myasthenia gravis associated with osteoporosis?,yesno
+817,Which cell type has the protein Chromogranin A as marker?,factoid
+818,Does a selective sweep increase genetic variation?,yesno
+819,Which disease phenotypes are associated to PRPS1 mutations?,list
+820,Is indicated the use of antioxidant supplements in patients at risk for coronary artery disease?,yesno
+821,Which are the main functions of the human HuR (ELAVL1) protein in fibroblasts?,summary
+822,Which kinases does baricitinib inhibit?,list
+823,Is there evidence to suggest that triiodothyronine has neuroprotective properties in traumatic brain injury?,yesno
+824,What is the role played by mTOR in hypertrophic response and heart failure?,summary
+825,Is Lysine-specific demethylase 1 (LSD1) a critical regulator of hematopoiesis?,yesno
+826,Is K-63 linked protein ubiquitination related to proteasomal degradation?,yesno
+827,Could transcription factors act as cell-cell signalling molecules?,yesno
+828,Magnetic beads has been used in numerous applications. List some coatings used.,list
+829,is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?,yesno
+830,Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)\ncause sudden cardiac death?,yesno
+831,What is the mechanism of action of DNA topoisomerase II inhibitors?,summary
+832,Are histone deacetylase (HDAC) inhibitors good candidates to control metastasis of solid tumors?,yesno
+833,Is muscle lim protein (MLP) involved in cardiomyopathies?,yesno
+834,Which gene harbors the mutation T790M?,factoid
+835,what is the role of FGF-2 in cardiac regeneration after myocardial infarction?,summary
+836,Have 5q35 microdeletions been implicated in Sotos syndrome development?,yesno
+837,Tumors of which three organs are classically associated with the multiple endocrine neoplasia type 1 syndrome?,list
+838,Which is the protein implicated in Spinocerebellar ataxia type 3?,factoid
+839,What is Tn-seq?,summary
+840,Is metabolic syndrome related with cardiovascular disease?,yesno
+841,Is there any functional association during viral replication between flaviviridae viral RNA depended RNA polymerase and viral helicase?,yesno
+842,Are defects in recombination repair involved in carcinogenesis?,yesno
+843,Which is the prevalence of cystic fibrosis in the human population?,factoid
+844,Are seizures among the neurological symptoms of incontinentia pigmenti?,yesno
+845,Which are the different homologs or family members of the hedgehog proteins in mammals?,list
+846,What does mTOR stands for?,factoid
+847,Which is the most common genetic lesion among patients with Joubert Syndrome and a cerebello-oculo-renal phenotype?,summary
+848,Which scales are recommended by the American Heart Association for depression screening in cardiovascular patients?,list
+849,Is there a genome-wide technique for the detection of R-loop formation?,yesno
+850,How is CBX1/M31 related to position-effect variegation?,summary
+851,Can bioprinting use human cells?,yesno
+852,Is transcription-associated mutagenesis (TAM) related to gene expression levels?,yesno
+853,Is there a pharmacogenetic test for trastuzumab?,yesno
+854,Which calcium channels does ethosuximide target?,factoid
+855,What is the sedimentation coefficient of the mammalian mitoribosome?,factoid
+856,Describe the mechanism of action of aliskiren.,summary
+857,Which proteins act as histone-like molecules in prokaryotes?,list
+858,Which receptor is targeted by telcagepant?,factoid
+859,What is the role of photodynamic therapy for meningioma treatment?,summary
+860,Do carmustine wafers improve survival of glioblastoma patients?,yesno
+861,Is Dicer part of the RISC loading complex?,yesno
+862,What is the Arnold-Chiari syndrome?,summary
+863,"What is the biological role of SERCA2 SUMOylation in cardiac physiology and pathophysiology, such as in heart failure?",summary
+864,Which trinucleotide repeat disorders are affecting the nervous system?,list
+865,Is hypersensitivity to DNA crosslinking agents a hallmark of Fanconi anemia?,yesno
+866,Which are the cellular targets of imatinib mesylate?,list
+867,Which are the clinical characteristics of Tuberous Sclerosis?,list
+868,What is known about MER41 repeat sequences?,summary
+869,How functional connectivity of the default mode network changes in patients with disorders of consciousness?,summary
+870,Have C12orf65 mutations been associated with axonal neuropathy and optic atrophy?,yesno
+871,List drugs included in the DHAP-R chemotherapy regiment.,list
+872,Are psammoma bodies characteristic to meningiomas?,yesno
+873,Which are the most common symptoms in Lambert-Eaton Myasthenic Syndrome?,list
+874,What is the pyroptotic pathway?,summary
+875,Which types of bacterial microflora are associated with the progression of peri-implantitis?,list
+876,What are the known families of deadenylases?,list
+877,Which translocation is harbored in the Askin tumor cells?,factoid
+878,What is the function of the AtxA pleiotropic regulator?,summary
+879,Is cystatin C or cystatin 3 used as a biomarker of kidney function?,yesno
+880,Which R/bioconductor package utilizes the Hilbert curve in order to visualize genomic data?,factoid
+881,Can fetal aneuploidy be detected with non-invasive prenatal testing?,yesno
+882,Which packages are used for performing overlap analysis of genomic regions in R/bioconductor?,list
+883,Is dichlorphenamide effective for periodic paralysis?,yesno
+884,What is evaluated with the Hydrocephalus Outcome Questionnaire?,summary
+885,What is known about maternal smoking and brain tumor risk?,summary
+886,Which pathway is activated by ficolin-3?,factoid
+887,Is nivolumab used for treatment of Non\u2013Small-Cell Lung Cancer?,yesno
+888,Global quantitative phosphoproteomic analyses are emerging. List the preferred technologies for the enrichment for phosphorylated peptides?,list
+889,Which histone modifications are correlated with transcription elongation?,list
+890,Does  thyroid hormone receptor beta1 affect insulin secretion?,yesno
+891,List disorders that have been associated to the polymorphism rs2535629.,list
+892,What is targeted by monoclonal antibody Pembrolizumab?,factoid
+893,Does replication timing affect the rate of somatic mutations?,yesno
+894,Which metazaon species or taxa are known to lack selenoproteins,summary
+895,What is the mode of inheritance of Facioscapulohumeral muscular\ndystrophy (FSHD)?,factoid
+896,Is NOD1 activated in inflammation?,yesno
+897,List diseases where protein citrullination plays an important role.,list
+898,What is commotio cordis?,factoid
+899,What is the cause of Phthiriasis Palpebrarum?,factoid
+900,Does the histidine-rich Ca-binding protein (HRC) interact with triadin?,yesno
+901,How are CpG island shores defined?,summary
+902,Does magnesium sulfate improve outcomes of subarachnoid hemorrhage patients?,yesno
+903,Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease?,factoid
+904,What is the role of edaravone in traumatic brain injury?,summary
+905,Are there plasma membrane receptors for thyroid hormones?,yesno
+906,Which disorder is rated by Palmini classification?,factoid
+907,what is the role of erythropoietin in cardiac regeneration after myocardial infarction?,summary
+908,Does Rad9 interact with Aft1 in S.cerevisiae?,yesno
+909,Are there any desmins present in plants?,yesno
+910,Are viruses involved in the etiology of human subacute thyroiditis?,yesno
+911,List core circadian clock genes.,list
+912,Which peripheral neuropathy has been associated with NDRG1 mutations?,factoid
+913,Is miR-126 involved in heart failure?,yesno
+914,Does resveratrol reduce cardiac remodeling?,yesno
+915,Which is the receptor for substrates of Chaperone Mediated Autophagy?,factoid
+916,What are the hallmarks of congestive heart failure?,summary
+917,What is the mode of inheritance of short QT syndrome?,factoid
+918,List clinical trials that have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms?,list
+919,What is the reason for the narcolepsy cases developed after H1N1 influenza vaccination?,summary
+920,Which are the biotracers used for detection of Alzheimer's disease using PET?,list
+921,What was the purpose of the FANTOM3 project?,factoid
+922,In which isochores are Alu elements enriched?,list
+923,Is oxalate renal excretion increased after bariatric surgery?,yesno
+924,Which are the mutational hotspots of the human KRAS oncogene?,list
+925,Which intraflagellar transport (IFT) motor protein has been linked to human skeletal ciliopathies?,factoid
+926,What is the mechanism of action of ocrelizumab for treatment of multiple sclerosis?,summary
+927,What is the link between Nonidet-40 (NP-40) and biotinylation?,factoid
+928,Which is the transcript responsible for X-chromosome inactivation?,factoid
+929,What are viral vectors used for in optogenetics?,summary
+930,Which domain allowing self-association do exist in TDP-43 and FUS proteins?,factoid
+931,Is there a role for transcription factories in genome organization?,yesno
+932,Which are the Chompret criteria for Li-Fraumeni syndrome?,list
+933,When ceritinib used instead of crizotinib?,list
+934,What type of enzyme is peroxiredoxin 2 (PRDX2)?,factoid
+935,Is the length of the poly(A) tail involved in human disease?,yesno
+936,Why graphics processing units (GPU) are more suitable for biological tasks than central processing units (CPU)?,summary
+937,Which are the thyroid hormone analogs utilized in human studies?,list
+938,Are patients with marfan syndrome at increased risk of arrhythmias?,yesno
+939,What are the treatments of choice for GIST (gastrointestinal stromal tumor)?,summary
+940,List Kartagener Syndrome Triad.,list
+941,Which disease is associated with the ectopic expression of the protein encoded by the gene DUX4?,factoid
+942,Which G protein is essential in the formation and function of lamellipodia?,factoid
+943,Which are the main functions of the APOBEC3 family of proteins?,list
+944,Which histone modifications are associated with constitutive heterochromatin?,list
+945,What is the main application of SWATH-MS in proteomics?,factoid
+946,Do selenoproteins and selenium play a role in prostate cancer prevention?,yesno
+947,What can Nothobranchius furzeri be used as a model system for?,factoid
+948,What is the function of TALENs?,summary
+949,Has protein citrullination been implicated in rheumatoid arthritis?,yesno
+950,Show results of randomised controlled trials for certolizumab pegol.,summary
+951,Which is the mass-tag that reveal the ubiquitination of a lysine residue?,factoid
+952,Which gene is involved in CADASIL?,factoid
+953,What is the role of thyroid hormone receptor alpha1 in insulin secretion?,summary
+954,Do R-loops tend to form at sites of DNA replication?,yesno
+955,Which two catechol-O-methyl transferase (COMT) inhibitors can be used for treatment of Parkinson disease?,list
+956,What are the structures formed when keratin molecules come together?,factoid
+957,Which is the prognostic impact of hypothyroidism in patients with acute myocardial infarction?,factoid
+958,Which are the main features of CREST and other ALS-linked proteins?,summary
+959,Mutations of which genes have been associated with Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)?,list
+960,What is the relationship between nucleosomes and exons?,summary
+961,List programs suitable for pharmacophore modelling,list
+962,Is selenium deficiency involved in autoimmune thyroid disease?,yesno
+963,List disorders that are caused by mutations in the mitochondrial MTND6 gene.,list
+964,Which are the most common methods for ctDNA (circulating tumour DNA) detection?,list
+965,Which gene is associated with Muenke syndrome?,factoid
+966,Is it safe to use Abatacept during pregnancy?,yesno
+967,What is DeepCAGE?,summary
+968,Is STAT3 involved in EIF2AK2-dependent suppression of autophagy?,yesno
+969,RTS S AS01 vaccine was developed to prevent which disease?,factoid
+970,What are the Topological Domains (TADs)?,summary
+971,What is the vibrational theory of olfaction?,summary
+972,Are CTCF and BORIS involved in genome regulation and cancer?,yesno
+973,What is the application of the ASSET algorithm in C.elegans?,summary
+974,Are Sidekick proteins members of the immunoglobulin superfamily?,yesno
+975,What are the pyknons?,summary
+976,Which deiodinases are best known to be present in brain?,list
+977,What are the computational methods for the prediction of beta-barrel transmembrane proteins?,list
+978,Describe what is the usage of the Theatre software tool for genomic analysis.,summary
+979,How are CRM (cis-regulatory modules) defined?,summary
+980,Which is the main regulatory molecule of SERCA2A function in the cardiac muscle?,factoid
+981,Which gene is responsible for the development of the Mowat-Wilson syndrome?,factoid
+982,How is active neurotoxin of Clostridium botulinum detected?,list
+983,Which factor interacts with Treslin/TICRR throughout the cell cycle of human cells?,factoid
+984,What is oprozomib?,summary
+985,Is there a relationship between junctin and ryanodine receptors?,yesno
+986,Which medication should be administered when managing patients with suspected acute opioid overdose?,factoid
+987,In which nuclear compartments is heterochromatin located?,list
+988,Have mutations in the ZEB2 gene been found in any human syndrome?,yesno
+989,Which enzymes are involved in global genome nucleotide excision repair (GG-NER) in bacteria?,list
+990,Is JTV519 (K201) a potential drug for the prevention of arrhythmias?,yesno
+991,What is the mechanism of microRNA deregulation in carcinogenesis?,summary
+992,Which type of GTPases is required for amino acid-dependent activation of mTORC1?,factoid
+993,In which genomic regions are Alu enriched?,list
+994,What is the synonym of the lubag disease?,factoid
+995,Dracorhodin perchlorate was tested for treatment of which cancers?,list
+996,What is the role of venous angioplasty in multiple sclerosis?,summary
+997,Are the Fanconi anemia genes a part of the same signalling pathway?,yesno
+998,Are there clinical trials using stem cells for the treatment of cardiac disease?,yesno
+999,Is DNA methylation an epigenetic modification of chromatin related to gene expression?,yesno
+1000,Is Growth factor independence 1b (GFI1B) important for hematopoiesis?,yesno
+1001,Has Revlimid been approved by the US Food and Drug Administration?,yesno
+1002,Which  is the execution time (complexity) of the Smith-Waterman algorithm for the alignment of two sequences,factoid
+1003,List mutations that are implicated in the Gray Platelet Syndrome.,list
+1004,Has single guide RNA been used on human cells?,yesno
+1005,Is Fibroblast Growth Factor 23 a phosphaturic hormone?,yesno
+1006,Which type of cell death is known as anoikis?,summary
+1007,The small molecule SEA0400 is an inhibitor of which ion antiporter/exchanger?,factoid
+1008,What is Piebaldism?,summary
+1009,Which SLC family is FLVCR1 a member of?,factoid
+1010,Is amoxicillin used for treatment of malnutrition in children?,yesno
+1011,Where are the orexigenic peptides synthesized?,factoid
+1012,What is the mechanism of action of APOBEC3G cytidine deaminase to inhibit HIV-1 replication?,summary
+1013,Which inherited disorder is known to be caused by mutations in the NEMO gene?,factoid
+1014,What is ISMARA?,summary
+1015,Is it possible to purify pseudopodia to be used for proteomic analysis?,yesno
+1016,Where does TDP43 localize in ALS neurons?,summary
+1017,List interaction partners for the protein GATA1.,list
+1018,Is  farnesoid X receptor (FXR) a nuclear receptor?,yesno
+1019,What histone variants play a role in the DNA damage reponse?,list
+1020,List tele monitoring applications of miniaturised sensors,list
+1021,How are ultraconserved elements called when they form clusters?,factoid
+1022,"What is the basis of the methodology of \""functional class scoring\"" (FCS) for the analysis of gene expression data?",summary
+1023,What is the Timothy syndrome?,summary
+1024,Which disease has been associated to a disruptive ALX1 protein?,factoid
+1025,How many selenoproteins are encoded in the human genome?,factoid
+1026,"In which process Src, Cortactin and MT1-MMP are playing an essential role?",factoid
+1027,In which yeast chromosome does the rDNA cluster reside?,factoid
+1028,Which is the underlying mechanism for exon skipping used to treat Duchenne muscular dystrophy?,summary
+1029,What is the advantage of using long nano columns in proteomics?,summary
+1030,During which stage of the cell cycle is cohesin deposited on the yeast genome?,factoid
+1031,Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?,factoid
+1032,What is the treatment of Riedel disease (thyroiditis)?,summary
+1033,What is the link between Dax1 and Esrrb?,factoid
+1034,What is dovitinib?,factoid
+1035,Are DNA helicases involved in progeroid syndromes?,yesno
+1036,List the diseases for which there are point-of-care breath tests,list
+1037,Is there association of matrix metalloproteinases with behaviour of pituitary adenomas?,yesno
+1038,"What is the evolutionary process described by the \""Muller's ratchet\"" model?",summary
+1039,Which heat shock protein is found to be upregulated during Hsp90 inhibition?,factoid
+1040,Which gene is responsible for the development of Sotos syndrome?,factoid
+1041,What is the name for anorexia in gymnasts?,factoid
+1042,Is Vitamin D deficiency in pregnant women associated with gestational diabetes?,yesno
+1043,What are the indications for alteplase?,list
+1044,List scaffold proteins of the ERK signaling pathway.,list
+1045,Which are the families of mammalian DNA-(cytosine-5)-methyltransferases?,list
+1046,Which classes of endogenous retroelements are known to date?,list
+1047,What is the association between proBNP serum concentrations and stroke outcomes?,summary
+1048,What is the effect that EZH2 has on chromatin?,summary
+1049,Does Chromatin Immunoprecipitation (ChIP) show a bias for highly expressed loci?,yesno
+1050,Is clathrin involved in E-cadherin endocytosis?,yesno
+1051,What are the generic versions of Viagra,summary
+1052,List GATA-1 interacting partners as discovered with the help of the biotinylation tagging approach.,list
+1053,Which diseases are associated with Alu element insertion?,list
+1054,Approximately how many recombination hotspots have been found in the yeast genome?,factoid
+1055,How could iPSCs be used for the treatment of diabetes?,summary
+1056,What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?,factoid
+1057,Is Propofol used for short-term sedation?,yesno
+1058,Which proteins are the different members of the NF-kappaB family of transcription factors?,list
+1059,What are the symptoms of Rotor syndrome?,list
+1060,Does splicing occur co-transcriptionally?,yesno
+1061,List the existing methods for genetic manipulation of cells.,list
+1062,Are there clinical trials on stem cells in multiple sclerosis,yesno
+1063,Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?,factoid
+1064,Are piRNAs involved in gene silencing?,yesno
+1065,List representatives of the major fungal hypoxanthine-adenine-guanine transporter families.,list
+1066,Which proteins have been identified as RET ligands?,list
+1067,Which substances are dangerous to g6PD deficient individuals?,list
+1068,Which mutations of SCN5A gene are implicated in Brugada syndrome?,list
+1069,What is Sotos syndrome?,summary
+1070,What is the CRAPome database?,summary
+1071,List all articles on network meta-analysis for smoking cessation,list
+1072,Can RG7112 inhibit MDM2?,yesno
+1073,Which clotting factor is inhibited by betrixaban?,factoid
+1074,Which are the most frequent syndromes associated with inherited bone marrow failure?,list
+1075,How is yellow fever virus transmitted?,summary
+1076,Are there any specific antidotes for dabigatran?,yesno
+1077,What is the outcome of TAF10 interacting with the GATA1 transcription factor?,factoid
+1078,How does TNF affect thyroid hormone receptors?,summary
+1079,Which ones are the ESKAPE organisms?,list
+1080,What is the effect of dovitinib on the cell cycle?,summary
+1081,What is the involvement of PDGFRB in metastatic medulloblastoma?,summary
+1082,What is known as Calcium Induced Calcium Release (CICR) and its role in cardiomyocyte contractility?,summary
+1083,What is the action of molindone?,summary
+1084,What is the function of the enzymes known as dual specificity phoshpatases (DUSPs)?,summary
+1085,How is bladder wall thickness measured?,factoid
+1086,LY450139 is investigational name of which drug?,factoid
+1087,Are there any Decision support systems for chronic pain management ?,yesno
+1088,Which gene has been found to be mutant in Lesch-Nyhan Disease patients?,factoid
+1089,Which is the methyl donor of histone methyltransferases?,factoid
+1090,How are human accelerated regions (HAR) defined?,summary
+1091,Carbapenemase-producing gram-negative bacteria is a major health concern because their resistance to antibiotics.\nList the most frequent carbapenemases found in Enterobacteriaceae.,list
+1092,How are GRBs (Genomic Regulatory Blocks) defined?,summary
+1093,What is the gene frequently mutated in Multiple endocrine neoplasia 2 (MEN2) and Hisrchsprung disease?,factoid
+1094,Which are the clinical characteristics of isolated Non-compaction cardiomyopathy?,list
+1095,What is STARR-seq?,summary
+1096,In which genomic positions is the histone variant macroH2A enriched?,list
+1097,Does amiodarone affect thyroid hormone receptors in the myocardium?,yesno
+1098,From which sequence does the Alu repeat originate from?,factoid
+1099,Abnormality in which vertebral region is important in the Bertolotti's syndrome?,factoid
+1100,What does iBAQ stand for in proteomic analysis?,factoid
+1101,Which is the main target of the anti-arrhythmic activity of flecainide?,factoid
+1102,Does thyroid hormone affect cardiac remodeling?,yesno
+1103,What is the effect of ROS on cyclin B1?,summary
+1104,Are there any HCV replication inhibitors available?,yesno
+1105,Provide examples of how molecular transporters contribute to multi-drug resistance in bacteria.,summary
+1106,What is the minimal genome build?,summary
+1107,Is cocaine use associated with increased risk for intracerebral hemorrhage?,yesno
+1108,Is miR-21 related to carcinogenesis?,yesno
+1109,Which is the most prevalent form of arrhythmia worldwide?,factoid
+1110,Are thyroid hormone receptor alpha1 mutations  implicated in thyroid hormone resistance syndrome?,yesno
+1111,Which agents are included in the FLAMSA chemotherapy regimen?,list
+1112,Which are the subunits of the IkB protein kinase (IKK)?,list
+1113,Is PLK2 involved in alpha-synuclein phosphorylation in Parkinson disease?,yesno
+1114,Which glands are subject to attack by lymphocytes in Sjogren's syndrome?,factoid
+1115,Describe Malgaigne fracture.,summary
+1116,Name five popular  computer  programs used to identify genes in genomic sequences,list
+1117,Which are the major transcription factors regulating glycolysis in mammals?,list
+1118,Mutations in which gene determine response to both erlotinib and gefitinib?,factoid
+1119,Which protein complexes contain mitofilin?,list
+1120,Define marine metaproteomics,summary
+1121,Mutation of which gene and which chromosome cause Neurofibromatosis type I?,list
+1122,Which genes does thyroid hormone receptor alpha1 regulate in the heart?,list
+1123,What is the content of the METLIN database?,factoid
+1124,Which is the RNA sequence of the canonical polyadenylation signal?,factoid
+1125,Which computational frameworks are available for predicting enhancers?,list
+1126,Which proteins in the cerebro-spinal fluid can be used for early diagnosis of Alzheimer's disease?,list
+1127,Is there evidence for somatic mosaicism in Tuberous Sclerosis?,yesno
+1128,What is GRO-seq?,summary
+1129,What is the role of the RUNX1-MYEF2 complex?,factoid
+1130,Does smoking increase risk for glioblastoma?,yesno
+1131,Which genes are implicated in short QT syndrome?,list
+1132,What is SCENAR therapy used for?,list
+1133,List symptoms of Gradenigo's syndrome.,list
+1134,Is Wnt16b secreted in response to chemotherapy?,yesno
+1135,Do DNA double-strand breaks play a causal role in carcinogenesis?,yesno
+1136,Do conserved noncoding elements co-occur with matrix-attachment regions?,yesno
+1137,What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?,factoid
+1138,Which variables are included in the SPAN-100 score?,list
+1139,Are Drosophila ultraconserved elements candidate ncRNAs?,yesno
+1140,Which genes does thyroid hormone receptor alpha1 regulate in the liver?,list
+1141,What is the color of the protein Ranasmurfin?,factoid
+1142,What is the role of Caenorhabditis elegans Heterochromatin protein 1 (HPL-2) in development?,summary
+1143,Does surgery for ovarian endometriomas improve fertility?,yesno
+1144,Are ACTA1 (alpha actin) and NEB (nebulin) genes related to nemaline myopathy?,yesno
+1145,What are the pregnancy outcomes in rheumatoid arthritis?,summary
+1146,What is DNAshape?,summary
+1147,How are thyroid hormones involved in the development of diabetic cardiomyopathy?,summary
+1148,By which methods can we evaluate the reliability of a phylogenetic tree?,list
+1149,Which histone modification is primarily linked to elongating transcription?,factoid
+1150,Could RG7112 be used as cancer therapy?,yesno
+1151,Which interleukin is blocked by Siltuximab?,factoid
+1152,ROSIER scale is used for which disorder?,factoid
+1153,How histone deacetylation causes transcriptional gene silencing?,summary
+1154,Which is the subcellular localization of the protein angiogenin?,factoid
+1155,List FDA approved treatments for androgenetic allopecia,list
+1156,Which bone protein is used in archaelogy for dating and species identification?,factoid
+1157,Does thyroid hormone affect cardiac remodeling ?,yesno
+1158,What is the effect of SAHA treatment in Huntington's disease?,summary
+1159,What is known about the role of mHealth in the prevention of disease?,summary
+1160,Which receptors are targeted by suvorexant?,list
+1161,Is armodafinil used for treatment of insomnia?,yesno
+1162,A common problem in proteomics is the contamination of samples with exogenous proteins (often from other species). These proteins can be found in specific databases. List some contaminants.,list
+1163,Which gene has been implicated in Majeed Syndrome?,factoid
+1164,What is Trypan blue used for?,factoid
+1165,Selexipag is used for which disease?,factoid
+1166,How does ranolazine affect kinase signaling activation in the heart?,summary
+1167,List features of the DEND syndrome.,list
+1168,What is the RESID database?,factoid
+1169,Pridopidine has been tested for treatment of which disorder?,factoid
+1170,Are there currently applications of deep learning in genomics?,yesno
+1171,Are CpG islands located close to housekeeping genes?,yesno
+1172,Is COL5A2 gene associated to ischemic heart disease?,yesno
+1173,Which is the target of bortezomib used in cancer therapy?,factoid
+1174,Have microRNAs been implicated in pharmacogenomics?,yesno
+1175,Which genes are known to be involved in Diamond-Blackfan anemia?,list
+1176,Is nicotinamide effective for skin cancer prevention?,yesno
+1177,Which is the chromosomal location of the gene MAOA?,factoid
+1178,Do Parkinson's disease patients experience stridor?,yesno
+1179,Which depression rating scales were shown to have acceptable psychometric properties for screening of poststroke depression?,summary
+1180,What is the mechanism of action of  trichostatin A (TSA) as an antitumoral agent?,summary
+1181,Is there an association between serum interleukin-6 concentrations and outcomes of stroke patients?,yesno
+1182,Could bioprinting be used in regenerative medicine against bone disease?,yesno
+1183,Idarucizumab is an antidote of which drug?,factoid
+1184,What are the main clinical characteristics of Pendred syndrome?,list
+1185,What is the Pfam database?,factoid
+1186,What is a popular mesaure of gene expression in RNA-seq experiments?,factoid
+1187,Is macroautophagy a selective degradation process?,yesno
+1188,Inhibition of which enzyme is mechanism of action of alisertib?,factoid
+1189,List the three most prevalent pathogenic species of Borrelia in Europe.,list
+1190,Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?,factoid
+1191,Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation?,list
+1192,Is there any link between conserved noncoding elements and alternative splicing in vertebrates?,yesno
+1193,Which protein is affected by dusp8 activation?,factoid
+1194,Which receptors are targeted by a drug Macitentan?,list
+1195,What is known as the cause of subacute thyroiditis?,summary
+1196,Which drugs are utilized to treat eosinophilic esophagitis?,list
+1197,What is the incidence of cystic fibrosis in the caucasian population?,factoid
+1198,What is the effect of thapsigargin treatment?,factoid
+1199,What is the Her2 status in Li-Fraumeni syndrome?,factoid
+1200,Where is X-ray free electron laser used?,list
+1201,Which protein kinases have been found to phosphorylate Phospholamban and affect its biological activity?,list
+1202,Why can't humans synthesize Neu5Gc (N-Glycolylneuraminic acid)?,summary
+1203,Which enzyme is inhibited by Orteronel?,factoid
+1204,What is the disorder in which mutations in U4atac snRNA are detected?,factoid
+1205,Which is the binding site motif of Sp1?,factoid
+1206,List autoimmune disorders associated with GAD65 autoantibodies.,list
+1207,Elaborate on the TREAT-NMD initiative for DMD patients,summary
+1208,Is muscle regeneration possible in mdx mice with the use of induced mesenchymal stem cells?,yesno
+1209,List the different subtypes of thyroid cancer.,list
+1210,What are the characteristics of Christianson syndrome?,summary
+1211,Is the SDHAF2 gene encoding a protein necessary for flavination of SDHA?,yesno
+1212,What is the physiological role of LKB1 involved in Peutz-Jeghers syndrome?,factoid
+1213,What heterotachy states about molecular evolutionary processes?,summary
+1214,What is known about depression in caregivers of brain tumor patients?,summary
+1215,What are the effects of homozygosity of EDNRB mutations in addition to Hirschsprung disease?,summary
+1216,What is the prognostic role of alterred thyroid profile after cardiosurgery?,factoid
+1217,List Pentalogy of Fallot.,list
+1218,Which is the major function of sororin?,summary
+1219,"Which gene fusion is the result of the \""philadelphia translocation\"" or the \""philadelphia chromosome\"" mutation?",factoid
+1220,Is zolpidem an antibiotic?,yesno
+1221,Can desvenlafaxine be used at a dose of 50mg/day?,yesno
+1222,Which syndrome is associated with OATP1B1 and OATP1B3 deficiency?,factoid
+1223,Which type of lung cancer is afatinib used for?,factoid
+1224,Can ferric carboxymaltose be used to treat anemia in inflammatory bowel disease patients?,yesno
+1225,Which disease is treated with Eliglustat?,factoid
+1226,List algorithms suitable for predicting protein complexes,list
+1227,What are piggyBAC transposons?,summary
+1228,Is there any association of the chromosomal region harboring the gene ITIH3 with schizophrenia?,yesno
+1229,Is APOBEC3B protein predominantly cytoplasmic or nuclear?,factoid
+1230,Is the regulation of Vsr endonuclease independent of the growth phase of bacteria?,yesno
+1231,Are there interactomes available for POU5F1 and SOX2?,yesno
+1232,Which tool is used for promoterome mining using CAGE data?,factoid
+1233,Is Rheumatoid Arthritis related to myopathy?,yesno
+1234,what is the role of GATA-4 in regeneration of the heart after myocardial infarction?,summary
+1235,What is the life expectancy of professional athletes in respect to the general population?,factoid
+1236,Is EZH2 associated with prostate cancer?,yesno
+1237,How does adrenergic signaling affect thyroid hormone receptors?,summary
+1238,What are the computational tools for the prediction of beta-barrel transmembrane proteins?,list
+1239,Which kinase is regulating stress granule biogenesis?,summary
+1240,What is the association between cell phone use and glioblastoma?,summary
+1241,Is there any cross-talk between the Wnt and the Akt pathways?,yesno
+1242,Has the protein GFP been used in transgenesis for live protein imaging?,yesno
+1243,Is the Snord116 cluster associated with the Prader-Willi syndrome?,yesno
+1244,Aleglitazar is agonist of which receptor?,factoid
+1245,What are the main characteristics of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)?,summary
+1246,Is poly (ADP- ribosylation) involved in transcriptional control?,yesno
+1247,Is nimodipine recommended for prevention of vasospasm in aneurysmal subarachnoid hemorrhage patients?,yesno
+1248,what is the role of prostaglandins in cardiac regenaration after myocardial infarction?,summary
+1249,What is the general function of H3K79 methylation?,summary
+1250,Where can we find the protein lacritin?,list
+1251,Where can we find the protein dermcidin?,summary
+1252,What is the triple screening test performed during pregnancy measuring?,list
+1253,What are the generic versions of Viagra?,list
+1254,Which protein interacts with the Ragulator-RAG GTPases to control mTOR activity?,factoid
+1255,Against which organisms has reverse vaccinology been used?,list
+1256,Galassi classification is used for which disorder?,factoid
+1257,Describe Mozart effect.,summary
+1258,What is the purpose of the Tokuhashi scoring system?,summary
+1259,Which compounds exist that are thyroid hormone analogs?,list
+1260,Is lenvatinib effective for thyroid cancer?,yesno
+1261,What genes are related to breast cancer?,list
+1262,To the ligand of which receptors does Denosumab (Prolia) bind?,factoid
+1263,List fluorescent reporter proteins.,list
+1264,By which mechanism MutT proteins act against DNA lesions in bacteria?,summary
+1265,Was tamoxifen tested for treatment of glioma patients?,yesno
+1266,"Which transcription factors are known as the four (4) \""Yamanaka factors\"" that have been used to create induced pluripotent stem cells  (iPSCs)?",list
+1267,What is the role of anhedonia in coronary disease patients?,summary
+1268,What is  the clinical value of naltrexone in Parkinson's disease patients?,summary
+1269,What is the efficacy of oxaliplatin monotherapy in the management of colorectal cancer?,summary
+1270,Are there any animal models for Niemann-Pick C1 disease?,yesno
+1271,Which type of genes are modulated by SATB1?,factoid
+1272,Does HER2 under-expression lead to favorable response to trastuzumab?,yesno
+1273,Which are the most abundant human lincRNA?,list
+1274,Which is the molecular function of the protein CCDC40?,summary
+1275,Is the PTPN22 gene a biomarker for rheumatoid arthritis?,yesno
+1276,Can administration of the thyrotropin releasing hormone reduce fatigue in cancer patients?,yesno
+1277,What is the role of  chromomethylases in plants?,summary
+1278,Is curcumin a phytochemical?,yesno
+1279,What is Cerebral Cavernous Malformation?,summary
+1280,Is Fanconi anemia presented as a genetically and clinically heterogeneous disease entity?,yesno
+1281,What is the treatment of interferon-induced thyroiditis?,summary
+1282,Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?,factoid
+1283,Which drugs have been found effective for the treatment of chordoma?,list
+1284,Which components of the stress granules are known to be related to motor neuron degeneration in Amyotrophic Lateral Sclerosis?,list
+1285,Is there evidence for de novo genesis of enhancers in vertebrates?,yesno
+1286,Which could be some of the possible causes of hypersomnia?,list
+1287,What is the function of caspases?,factoid
+1288,Is TNNI3K a cardiac-specific protein?,yesno
+1289,How does Rif1 regulate DNA replication?,summary
+1290,Is factor XI deficient in Hemophilia C?,yesno
+1291,What is known about food intolerance and gluten ?,summary
+1292,Are EDNRB mutations involved in the development of Hirschsprung disease?,yesno
+1293,What is known about the effectiveness of electronic food diaries ?,summary
+1294,Can the apoptosis regulator BAX trigger the release of cytochrome c?,yesno
+1295,Which biological process in known as Endoplasmic Reticulum-Associated Protein Degradation (ERAD)?,summary
+1296,List BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients,list
+1297,which are the risk factors for sudden cardiac death in patients with hypertrophic cardiomyopathy?,list
+1298,What is known about the economic cost of urinary incontinence?,summary
+1299,Which are the coactivators of the Yes-associated protein (yap)?,factoid
+1300,How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?,factoid
+1301,Are optogenetics tools used in the study and treatment of epilepsy?,yesno
+1302,In which phase of cell cycle does  stress-induced transcription-associated mutagenesis (TAM) occur?,factoid
+1303,Which proteins are related to the loss of cell-cell adhesion during EMT (epithelial-mesenchymal transition)?,list
+1304,Is micro RNA 1 (miR-1) implicated in cardiac arrhythmias?,yesno
+1305,Are there Conserved Noncoding Elements (CNEs) in invertebrate genomes?,yesno
+1306,"Which tumor suppressor is referred to as \""the guardian of the genome\""?",factoid
+1307,What is known about diseases associated with mutations in the CHCHD10 gene?,summary
+1308,Which drug should be used as an antidote in benzodiazepine overdose?,factoid
+1309,Does thyroid hormone signaling affect microRNAs expression in the heart?,yesno
+1310,Give examples of next-generation sequencing applications in mutation screening?,summary
+1311,List common features of Shapiro syndrome,list
+1312,List mouse models for autism spectrum disorder (ASD).,list
+1313,What is BioASQ?,summary
+1314,Which are the main functions of G3BP1 and G3BP2 proteins?,list
+1315,What is the definitive treatment for low pressure headache?,factoid
+1316,What is the role of the histidine rich calcium binding protein (HRC) in cardiomyopathy?,summary
+1317,What is the incidence of sudden cardiac death among young athletes?,factoid
+1318,What is the effect of amitriptyline in the mdx mouse model of Duchenne muscular dystrophy?,summary
+1319,Which post-translational histone modifications are characteristic of facultative heterochromatin?,list
+1320,Mutations in which genes have been associated with Aicardi-Goutieres syndrome?,list
+1321,List bacteria that may be useful in uranium bioremediation.,list
+1322,How much should be the duration of the QT interval in patients with short QT syndrome?,factoid
+1323,What is known about potential implication of thyroid hormone receptors in arterial hypertension?,summary
+1324,What is the mechanism of action of abiraterone?,summary
+1325,"The protein neprilysin  has an positive effect on Alzheimer disease, how can it be delivered to the brain?",list
+1326,Which species of bacteria did the mitochondria originate from?,factoid
+1327,Which disease is linked to mutations within BRAG1?,factoid
+1328,Which is the main calcium pump of the sarcoplasmic reticulum?,factoid
+1329,What is the inheritance pattern of Hunter disease or mucopolysaccharidosis II?,factoid
+1330,Do ephrins play a role in brain cancer?,summary
+1331,What is the effect of the absence of Saccharomyces cerevisiae Rrm3p?,factoid
+1332,Do all archaea possess multiple origins of DNA replication?,yesno
+1333,What is the ubiquitin proteome?,factoid
+1334,Which major signaling pathways are regulated by RIP1?,list
+1335,What is the effect induced by sympathetic nervous system on pupil size?,factoid
+1336,Is p100 the precursor protein molecule of the NF-kappaB transcription factor subunit p50?,yesno
+1337,What is the definition and the biological role of epithelial-mesenchymal transition (EMT),summary
+1338,Is there a difference in the rate between gene fusion and gene fission?,yesno
+1339,What type of cancers and inherited diseases have been associated to mutations in the Notch pathway?,list
+1340,Can cognitive behavioral therapy improve fatigue in cancer patients?,yesno
+1341,Is protein Fbw7 a SCF type of E3 ubiquitin ligase?,yesno
+1342,Is there increased incidence of incontinence in athletes?,yesno
+1343,What is the inheritance pattern of Apert syndrome?,factoid
+1344,Which is the most widely used model for the study of multiple sclerosis (MS)?,factoid
+1345,What is the usual HER-2 status in breast cancer associated with Li-Fraumeni syndrome?,factoid
+1346,What is the treatment of triiodothyronine toxicosis?,list
+1347,Are there enhancer RNAs (eRNAs)?,yesno
+1348,Which are the known human transmembrane nucleoporins?,list
+1349,Which E3 ubiquitin ligase mediates the ubiquitination and degradation of the interferon receptor type 1 (IFNAR1)?,factoid
+1350,Are conserved noncoding elements associated with the evolution of animal body plans?,yesno
+1351,Which genes were found to be methylated in bladder cancer cells?,list
+1352,Are DNA methylation maps applicable to the diagnosis of non-small-cell lung carcinomas?,yesno
+1353,Which domain of TIA-1 is necessary for stress granule assembly?,factoid
+1354,Is the protein product of the cylindromatosis gene (CYLD) a deubiquitinating enzyme?,yesno
+1355,What is the characteristic domain of histone methyltransferases?,factoid
+1356,What is smFISH?,summary
+1357,Which are the bioinformatics tools for gene structure prediction?\n,list
+1358,Which is the major phytoalexin in alfalfa (Medicago sativa L.)?,factoid
+1359,What is the correlation between SPARC expression and growth inhibition in human cancer?,summary
+1360,Which syndrome is associated with mutations in the LYST gene?,factoid
+1361,Has the presence of delayed enhancement been documented in athletes performing strenuous exercise?,yesno
+1362,How does dronedarone affect thyroid hormone signaling in the heart?,summary
+1363,Name the factors required for selenoprotein synthesis in eukaryotes,list
+1364,What are the functions of the ESCRT machinery?,summary
+1365,Which genes/proteins have been found to inhibit cyclin dependent kinase 4 (CDK4)?,list
+1366,What is the role of TRH in hypertension?,summary
+1367,Is triadin involved in cardiac function?,yesno
+1368,Which disorders are associated to mutated Hepcidin (HAMP)?,list
+1369,Which protein is the main inhibitor of protein phosphatase 1 (PP1)?,factoid
+1370,What is the role of NETs in systemic lupus erythematosus?,summary
+1371,Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies?,factoid
+1372,Is Mammaprint approved by the United States Food and Drug Administration?,yesno
+1373,What is known as Von Hippel\u2013Lindau disease or syndrome?,summary
+1374,Is HER2 active only when it dimerizes?,yesno
+1375,Which pharmacogenetic test is available for abacavir?,factoid
+1376,Are microRNA (miR) regulated through DNA methylation of their promoters?,yesno
+1377,Are nucleosomes positioned at DNA replication origins?,yesno
+1378,Which are the most under-represented oligonucleotides in higher eukaryote genomes?,list
+1379,Does nimotuzumab improve survival of glioblastoma patients?,yesno
+1380,"List co-morbidities that may occur together with \""Stiff man Syndrome\""",list
+1381,Which mechanisms underlie adaptive mutagenesis (stationary-phase mutagenesis) in Bacillus subtilis?,summary
+1382,What personality traits can be evaluated with the Ten Item Personality Inventory.,list
+1383,Which are the enzymes involved in the control of tubulin acetylation?,list
+1384,Is there a relation between ANP and transcapillary albumin escape?,yesno
+1385,List all approved indications for Glivec,list
+1386,Which proteins induce inhibition of LINE-1 and Alu retrotransposition?,list
+1387,Can chronological age be predicted by measuring telomere length?,yesno
+1388,What is a benefit of being g6PD-deficient?,factoid
+1389,Describe the usefulness of Macrostomum lignano in ion channel and stem cell research,summary
+1390,Is there an association between c-reactive protein concentrations and outcomes of subarachnoid hemorrhage patients?,yesno
+1391,Which drug is benserazide usually co-administered with?,factoid
+1392,What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?,factoid
+1393,What is the INSURE procedure in premature babies.,summary
+1394,Which are the available biomedical text mining tools for the detection of protein-protein interactions?,list
+1395,How thyrocyte destruction is induced in autoimmune thyroiditis?,summary
+1396,Do A-type lamins bind euchromatin or heterochromatin?,factoid
+1397,Which is the most abundant membrane protein on Earth?,factoid
+1398,Can RNASeq be used for the analysis of nascent transcripts?,yesno
+1399,Do RNA:DNA hybrids preferentially form in high or low GC regions?,yesno
+1400,Which are the most commonly reported pathological states associated with the formation of DNA G-quadruplexes?,list
+1401,Are shadow enhancers associated with development?,yesno
+1402,Does prudent diet reduce cardiovascular risk?,yesno
+1403,Is Crohn's disease (CD) linked to the consumption of refrigerated food?,yesno
+1404,Which drugs are included in TAS-102?,list
+1405,What is the most probable defect underlying triple negative breast cancer?,factoid
+1406,What causes erucism?,summary
+1407,How does Hst5 (histatin 5) affect infections by Candida glabrata?,summary
+1408,Which enzyme is deficient in Krabbe disease?,factoid
+1409,Are there Conserved Noncoding Elements (CNEs) in plant genomes?,yesno
+1410,Which is the localization of the RIFIN family of proteins?,summary
+1411,What are the current treatments for generalised anxiety disorder in teenagers?,list
+1412,Can tetracycline affect tooth formation?,yesno
+1413,Is there any genetic determinant of hair pigmentation that could be useful in forensic analyses?,factoid
+1414,What is the suggested clinical management of Fanconi anemia?,summary
+1415,Could Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) cause sudden cardiac death?,yesno
+1416,Does Apolipoprotein E (ApoE) have anti-inflammatory activity?,yesno
+1417,Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema?,list
+1418,Is the ACE inhibitor indicated for lung cancer treatment?,yesno
+1419,Which forms of cancer is the Tpl2 gene associated with?,list
+1420,What are the indications for hydrochlorothiazide?,list
+1421,Are genes symmetrically distributed between leading and lagging DNA strand in bacteria?,yesno
+1422,What hand deformities do patients with Apert syndrome present with?,list
+1423,Is c-myc subject to regulation by the circadian clock?,yesno
+1424,What disease is Velcade (bortezomib) mainly used for?,factoid
+1425,Which genes are thought to be involved in medulloblastoma development?,list
+1426,What is the prevalence of short QT syndrome?,factoid
+1427,Which sports have a risk for commotio cordis?,list
+1428,is there an increase in ultrasound comets after intense exercise?,yesno
+1429,Describe Hot water reflex epilepsy.,summary
+1430,What are the breath test biomarkers of pulmonary tuberculosis,list
+1431,What types of DNA mutations are induced by 2-hydroxy-dATP (2-OH-dATP)?,list
+1432,Which diseases can be treated with Afamelanotide?,list
+1433,Which is the mechanism used by bacteria to induce tumors in Arabidopsis?,summary
+1434,Can cffDNA be used for non-invasive testing?,yesno
+1435,List features of the Perry syndrome.,list
+1436,Which is the main calcium binding protein of the sarcoplasmic reticulum?,factoid
+1437,Is the UGT1A1*28 polymorphism associated with irinotecan response in Caucasians?,yesno
+1438,For which diseases members of the 2-aminobenzamide class of histone deacetylase (HDAC) inhibitors show promise as therapeutics?,list
+1439,Do U6-associated proteins Lsm4 and Lsm6 interact with SMN?,yesno
+1440,List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease.,list
+1441,Does MVIIA and MVIIC bind to the same calcium channel?,yesno
+1442,What is the idea behind the fractal globule that has been proposed as a model of chromatin conformation in the nucleus of a cell?,summary
+1443,Which anticancer drugs target human topoisomerase II?,list
+1444,What is SHAPE-Seq?,summary
+1445,Which are the known inhibitors of the TPL2/MAP3K8 protein?,list
+1446,What is the mode of inheritance in Fanconi anemia?,factoid
+1447,Describe the involvement of conserved noncoding sequences in the regulation of Hox genes.,summary
+1448,Give an overview of visualizing genomes with oligopaint FISH probes.,summary
+1449,What is Targeted Chromatin Capture (T2C)?,summary
+1450,What are the reported adverse effects of topical minoxidil?,summary
+1451,Is arimoclomol a co-inducer of the heat shock response?,yesno
+1452,"What memory problems are reported in the \"" Gulf war syndrome\""",factoid
+1453,Describe Heyde syndrome.,summary
+1454,Has silicon been used in treatment of  incontinence ?,yesno
+1455,Which proteins compose the error prevention GO (8-oxo-G) system in Pseudomonas putida?,list
+1456,List five applications of machine learning algorithms in medical diagnosis.,list
+1457,Does the 3D structure of  the genome remain stable during cell differentiation?,yesno
+1458,What is the main biological function of the CRISPR-CAS9 genome editing system?,summary
+1459,Does dronedarone  affect  T3 and T4 levels?,yesno
+1460,What is 2d 4d ratio in athletes.,summary
+1461,What is the association between moon cycle and rupture risk of intracranial aneurysms?,summary
+1462,What is the role of brain natriuretic peptide in traumatic brain injury patients ?,summary
+1463,Which molecule is targeted by Daratumumab?,factoid
+1464,Which mutation is associated with PLMS (periodic limb movements in sleep)?,factoid
+1465,Which DNA repair system is involved in HNPCC?,factoid
+1466,Mention the only available genomics and developmental transcriptomics resource for the urochordate Oikopleura dioica,factoid
+1467,What is the association between NT-proBNP and cognitive function?,summary
+1468,List functional roles of the FtsZ protein.,list
+1469,Intetumumab has been tested in clinical trials for treatment of which cancers?,list
+1470,Is there any evidence of dysregulated long non coding RNAs and Alzheimer's disease?,summary
+1471,Which hormone receptor function is altered in patients with Donohue syndrome?,factoid
+1472,Does triiodothyronine (T3) has cardiac angiogenic effects?,yesno
+1473,Is the HRC Ser96Ala variant associated with sudden cardiac death in patients with dilated cardiomyopathy?,yesno
+1474,Are BRAF mutations common in melanoma?,yesno
+1475,Is it possible to determine the proteome of a formalin fixed and paraffin embedded  (FFPE) tissue?,yesno
+1476,What is known about type D personality trait in cancer patients?,summary
+1477,List available tools for genomic visualisation in comparative genomics,list
+1478,Which species may be used for the biotechnological production of itaconic acid?,list
+1479,Which types of cancer can be recognized and treated by the use of immunotherapy?,list
+1480,What is the typical rash associated with gluten ?,factoid
+1481,Which proteins constitute the methyl-directed mismatch repair system (MMR) in bacteria?,list
+1482,Is aganglionic megacolon a feature of Down syndrome?,yesno
+1483,Which is the vector of Louping ill virus?,factoid
+1484,Does HuR protein regulate the splicing process?,yesno
+1485,Is Titin the largest single protein molecule found in Nature?,yesno
+1486,what is the role of MEF-2 in cardiomyocyte differentiation?,summary
+1487,Which are the main components of mTORC1?,list
+1488,What is the the Menzerath-Altmann law?,summary
+1489,Which receptor(s) recognize lysosomal hydrolases in trans-Golgi network (TGN)?,list
+1490,List the diseases that can be treated using Vedolizumab.,list
+1491,Can clonidine be used to reduce agitation in children.,yesno
+1492,Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?,factoid
+1493,Does ventriculoperitoneal shunt improve normal pressure hydrocephalus?,yesno
+1494,Does Serca2a bind PLN in the heart?,yesno
+1495,What is the function of the spliceosome complex?,factoid
+1496,Is there any role for long noncoding RNAs in adipogenesis?,yesno
+1497,Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes?,list
+1498,Is there any research that relates the function of Notch Signaling with Alzheimer Disease?,yesno
+1499,Describe the known functions for the prothymosin alpha c-terminal peptide?,summary
+1500,Was modafinil tested for schizophrenia treatment?,yesno
+1501,What is the role of the Ada O6-alkylguanine alkyltransferase in bacteria?,summary
+1502,List the neurotransmitters that are metabolized by MAOA.,list
+1503,What is the effect of enamel matrix derivative on pulp regeneration?,factoid
+1504,Is depression associated with poor prognosis of brain tumor patients?,yesno
+1505,Super-SILAC is a method used in quantitative proteomics. What is the super-SILAC mix?\n(SILAC: Stable Isotopic labelling by aminoacids in cell culture),summary
+1506,What is an acceptable sequence coverage(depth) required for human whole-exome sequencing?,factoid
+1507,To what extent does HPV vaccination reduce the risk for cervical cancer?,factoid
+1508,Have germline variants been associated to colorectal cancer?,yesno
+1509,Can Alzheimer's disease related miRNAs be detected in patients' blood?,yesno
+1510,Which is the clinical meaning of the presence of delayed enhancement in patients with hypertrophic cardiomyopathy?,factoid
+1511,What disease is mirtazapine predominantly used for?,factoid
+1512,Is it possible to visualize subtahalamic nucleus by using transcranial ultrasound?,yesno
+1513,Is cancer related to global DNA hypo or hypermethylation?,factoid
+1514,Do thyroid hormone receptors change after brain injury?,yesno
+1515,What is known about efficacy of the high dose intravenous ascorbate in the treatment of cancer patients?,summary
+1516,Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers?,factoid
+1517,Is gastro esophageal reflux related to burning mouth syndrome?,yesno
+1518,Which is the protein (antigen) targeted by anti-Vel antibodies in the Vel blood group?,factoid
+1519,Which are the subtypes of Pfeiffer syndrome?,list
+1520,Is thrombophilia related to increased risk of miscarriage?,yesno
+1521,Intact macromolecular assemblies are analysed by advanced mass spectrometry. How large complexes (in molecular weight) have been studied?,factoid
+1522,What is targeted by Palbociclib?,factoid
+1523,Which peptide plays a pivotal role in human cystatin C fibrillization?,factoid
+1524,What is ChiRP-seq (Chromatin Isolation by RNA Purification sequencing)?,summary
+1525,What is the use of MammaPrint and Oncotype DX?,summary
+1526,Does nifedipine inhibit L-type calcium channels?,yesno
+1527,Is there any data to suggest that TRH (thyrotropin releasing hormone) administration can improve symptom severity of amyotrophic lateral sclerosis patients?,yesno
+1528,How can DUF families be deciphered?,summary
+1529,Which genes does thyroid hormone receptor beta1 regulate in the heart?,list
+1530,Can siRNA affect response to afatinib treatment?,yesno
+1531,What is the gold standard treatment for Iatrogenic male incontinence?,factoid
+1532,"Which is the main CHEK2 genetic variant, thought to be involved in familial breast cancer?",factoid
+1533,Is there an association between presenteeism and depression?,yesno
+1534,Which hormone abnormalities are common in Williams syndrome,list
+1535,What is the treatment of choice  for gastric lymphoma?,summary
+1536,Which assays can be used for detecting DNA fragmentation resulting from programmed cell death (apoptosis)?,list
+1537,Does triiodothyronine stimulate red blood cell sodium potassium pump?,yesno
+1538,Which hormone concentrations are altered in patients with the Allan\u2013Herndon\u2013Dudley syndrome?,factoid
+1539,Is selumetinib effective in thyroid cancer?,yesno
+1540,Where in the cell does the proteins S100A4 and p53 interact ?,factoid
+1541,What are the applications of a Dermaroller ?,summary
+1542,Are immune cells affected in Amyotrophic Lateral Sclerosis?,yesno
+1543,Are OATP1B1 and OATP1B3 associated with bilirubin transport?,yesno
+1544,What is the mechanism of action of eprotirome?,summary
+1545,What is the role of music therapy in coma patients.,summary
+1546,Which is the causative agent of malaria?,factoid
+1547,What is the major adverse effect of adriamycin(doxorubicin)?,factoid
+1548,What is GDF10?,summary
+1549,Is thyroid hormone therapy indicated in patients with heart failure?,yesno
+1550,Is there a mouse model for Fanconi anemia?,yesno
+1551,Could Hyperthermic intraperitoneal chemotherapy (HIPEC) be effective for the treatment of recurrent ovarian cancer?,yesno
+1552,Which is the most common editing modification in eukaryotic mRNA?,factoid
+1553,Is Rac1 involved in cancer cell invasion?,yesno
+1554,Which are the APOBEC3 protein family members able to inhibit Vif-deficient HIV-1 replication?,list
+1555,Is the gene SLC6A2 associated with orthostatic intolerance?,yesno
+1556,"Other than protein coding potential, what features set apart long non-coding RNAs from protein coding genes?",summary
+1557,Is macitentan an ET agonist?,yesno
+1558,Can we use platelet biomarkers to study Alzheimer's disease?,yesno
+1559,Which genetic defects are observed in Prader-Willi syndrome?,list
+1560,What is the most likely age of diagnosis of Crohn's disease (CD)?,factoid
+1561,How does thyroid hormone affect insulin resistance in the heart?,summary
+1562,Which are the state-of-the-art computational tools for the prediction of gene fusion events?,list
+1563,Is CHEK2 involved in cell cycle control?,yesno
+1564,Describe mechanism of action of PLX3397 drug.,summary
+1565,What disease is small bowel lymphoma commonly associated with,factoid
+1566,Are the proteins Erbin (LAP2) and Merlin cooperating?,yesno
+1567,Which molecule is targeted by a monoclonal antibody Secukinumab?,factoid
+1568,Which calcium/calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors (Nuclear Factors of Activated T cells)?,factoid
+1569,Is abdominal pain a common symptom in autism?,yesno
+1570,Are cyclophilins ubiquitously expressed?,yesno
+1571,Are adenylyl cyclases always transmembrane proteins?,yesno
+1572,What histone trimethylation has been associated to RNA splicing?,factoid
+1573,What was the purpose of the FANTOM4 project?,factoid
+1574,Does low T3 negatively affect prognosis of patients after cardiac surgery?,yesno
+1575,Which deficiency is the cause of restless leg syndrome,summary
+1576,List the results of mutated casein kinase 1 epsilon.,list
+1577,Does neuroglobin has neuroprotective properties in the setting of traumatic brain injury?,yesno
+1578,What gene test is recommended for clopidogrel?,factoid
+1579,What is the role of eteplirsen in DMD patients?,factoid
+1580,Describe clinical presentation of Parkinsonism with dementia of Guadeloupe syndrome.,summary
+1581,"Does the concentration of protein HIF-1\u03b1 increase after the administration of the cytoprotective prodrug\""amifostine\"" (ethyol) ?",yesno
+1582,Which diseases can Oncotype DX be used for?,list
+1583,Which are the DNA (cytosine-5-)-methyltransferases inhibitors?,list
+1584,Describe armoured brain syndrome.,summary
+1585,Which are the main histone modifications associated with enhancers?,list
+1586,What is the role of Thyrotropin Releasing Hormone in the treatment of comatose patients?,summary
+1587,Do Conserved noncoding elements act as enhancers?,yesno
+1588,Can the iPS cell technology be used in Fanconi anemia therapy?,yesno
+1589,Which drug is considered as the first line treatment of fibromyalgia?,factoid
+1590,What are the signatures of aggressive periodontitis?,summary
+1591,With which complexes is the protein SUS1 associated?,list
+1592,Can Preimplantation Genetic Diagnosis (PGD) be used for gender selection?,yesno
+1593,What is the principle of ATAC (Assay for Transposase-Accessible Chromatin) technique?,summary
+1594,Which are the main NMD factors in Saccharomyces cerevisiae?,list
+1595,Which histone marks are deposited by Set7?,list
+1596,Has proteomics been used in the study of the dry eye syndrome?,yesno
+1597,What is the indication for isradipine?,factoid
+1598,List non-surgical treatment modalities that are included in the Stupp protocol.,list
+1599,Which genes are associated with Ehlers-Danlos syndrome type I/II?,list
+1600,Which factors are considered in the ABCD2 score?,list
+1601,Is Tuberous Sclerosis a genetic disease?,yesno
+1602,Does TRIM37 gene mutation causes Mulibrey nanism?,yesno
+1603,Have thyronamines effects on fat tissue?,yesno
+1604,What is the genetic basis of progeria,summary
+1605,What type of DNA repair pathways is initiated by AlkA glycosylase?,factoid
+1606,Is there any protein that undergoes both mono-ubiquitination and poly-ubiquitination?,yesno
+1607,Which are the musculoskeletal manifestations of Marfan syndrome?,list
+1608,"What is the \""Proteomic ruler\""?",summary
+1609,What is the mechanism by which HIV-1-encoded Vif protein allows virus replication?,summary
+1610,Which proteins are the different isoforms of the p38 MAP kinase?,list
+1611,Are pseudogenes enriched with housekeeping protein families?,yesno
+1612,What is the mechanism of cementogenesis in pulp regeneration?,summary
+1613,What are the reported adverse effects of gabapentin used in children?,list
+1614,What is the effect of ranolazine in diastolic heart failure?,summary
+1615,"Elaborate on the potential efficacy of gemcitabine for the treatment of recurrent, platinum-resistant epithelial ovarian cancer.",summary
+1616,Is olaparib effective for prostate cancer?,yesno
+1617,How does Foxa transcription factor exhibits its pioneering function?,summary
+1618,Which are the 3 basic transcription factors that have been used for the direct reprogramming of fibroblasts into cardiomyocytes or cardiomyocyte like-cells?,list
+1619,What is the name of Bruton's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia?,factoid
+1620,Is physical performance influenced by thyroid hormone metabolism?,yesno
+1621,Do plant genomes contain CpG islands?,yesno
+1622,"Describe the isolation of transcription factor complexes by in vivo biotinylation tagging and direct binding to streptavidin beads, as applied for the case of the essential hematopoietic transcription factor GATA-1.",summary
+1623,Are high-flow nasal cannulae effective for treatment of preterm infants?,yesno
+1624,What are the molecular characteristics of the FAA (FANCA) cDNA?,summary
+1625,What are the skeletal muscle satellite cells?,summary
+1626,What is the role of neurogranin in Alzheimer's disease patients?,summary
+1627,Does triiodothyronine play a regulatory role in insulin secretion from pancreas?,yesno
+1628,How many disulfide bridges has the protein hepcidin got?,factoid
+1629,What is the association between GERD and gluten ?,summary
+1630,Which are the major intramolecular phosphorylation sites of human Chk2 involved in cell cycle control?,list
+1631,Is the Histidine-Rich Calcium Binding protein (HRC) related to arrhythmias and cardiac disease?,yesno
+1632,Which are the methods for in silico prediction of the origin of replication (ori) among bacteria?,list
+1633,What is the use of emulsion PCR in Next Generation Sequencing?,summary
+1634,Can adult humans be induced to produce fetal hemoglobin?,yesno
+1635,What is the role of thyroid hormone in Stem cell differentiation?,summary
+1636,Which receptors can be evaluated with the [18F]altanserin?,factoid
+1637,Which diseases have been associated with the PTPN22 620W allele?,list
+1638,Which extra thyroid tissues have thyrotropin (TSH) receptors?,list
+1639,Which histone modifications distinguish between promoters and enhancers?,list
+1640,Where is the metaxin complex localized?,factoid
+1641,What are the major classes of retrotransposons active in the human genome?,list
+1642,Which are the clinical characteristics of Diamond-Blackfan anemia?,list
+1643,How can the expression of SerH3 immobilization antigen be regulated?,factoid
+1644,Which factors play a role in promoter proximal pausing of RNA polymerase II?,list
+1645,Which are the main clinical features of Fanconi anemia?,list
+1646,Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?,factoid
+1647,Which drugs may interfere thyroxine absorption?,list
+1648,Is Turcot syndrome associated with glioblastoma?,yesno
+1649,Which is the gene most commonly mutated in Tay-Sachs disease?,factoid
+1650,In which types of DNA repair is the UvrAB complex involved?,list
+1651,What is the localization of the protein encoded by the gene DNAJC11?,factoid
+1652,Is Calcium/Calmodulin dependent protein kinase II (CaMKII) involved in cardiac arrhythmias and heart failure?,yesno
+1653,What is the lay name of the treatment for CCSVI (chronic cerebro-spinal venous insufficiency)  in multiple sclerosis.,factoid
+1654,Which hormone abnormalities are characteristic to Pendred syndrome?,factoid
+1655,What is the mode of inheritance of  long QT  Jervell and Lange-Nielsen syndrome?,factoid
+1656,List programs suitable for protein docking,list
+1657,Which genes have been found mutated in Gray platelet syndrome patients?,list
+1658,Does dasatinib promote or inhibit T-cell proliferation?,factoid
+1659,Does SCRIB deregulation promote cancer?,yesno
+1660,Is cardiac magnetic resonance imaging indicated in the pre-participation screening of athletes?,yesno
+1661,Is imatinib an antidepressant drug?,yesno
+1662,What is the function of the MTH1 enzyme in cancer cells?,summary
+1663,Are ultraconserved elements depleted among copy number variants (CNVs)?,yesno
+1664,Is the microRNA 132 (miR-132) involved in brain pathologies?,yesno
+1665,What is an approximate number of CTCF binding sites in the human genome?,factoid
+1666,Does cucumber lower blood sugar in diabetics?,yesno
+1667,Which mutations in the cardiac isoform of the ryanodine receptor (RyR2) have been found to be related to CPVT?,list
+1668,Which population has a high frequency of the HLA-B*1502 allele?,factoid
+1669,What are the observations regarding telomere integrity and function in Fanconi anemia?,summary
+1670,Are Notch mutations related to T-cell Acute Lymphoblastic Leukemia (T-ALL)?,yesno
+1671,What is the role of the Tsix gene during X chromosome inactivation?,summary
+1672,Is the protein FAK (Focal Adhesion Kinase) phosphorylated?,yesno
+1673,Which is the substrate of the haspin kinase during mitosis?,factoid
+1674,Which are the most widely reported side-effects in the treatment of Crohn's disease?,list
+1675,Are most driver gene mutations synonymous or non-synonymous?,factoid
+1676,What is the advantage of neutral loss detection in phosphoproteomics?,summary
+1677,Does ghrelin play a role in ischemic stroke?,yesno
+1678,What is the mechanism of drug-induced gingival overgrowth?,summary
+1679,Is LPS a microbial product?,yesno
+1680,Which cyclin- dependent kinase inhibitor is regulated by Bmi-1?,factoid
+1681,Which microRNAs are involved in exercise adaptation?,list
+1682,Has field-programmable gate array (FPGA) technology been used to solve sequence alignment problems?,yesno
+1683,List inhibtors targeting the mitochondrial permeability transition pore.,list
+1684,What is ceritinib?,summary
+1685,Which protein is found to be mutated in Friedreich's ataxia?,factoid
+1686,Which is the process that Conserved noncoding elements mostly regulate?,factoid
+1687,What is the main mechanism by which human papillomavirus proteins E6 and E7 contribute to cell transformation?,summary
+1688,List bacterial species identified in the iceman tissues.,list
+1689,Which properties of the mRNA does N6-methyladenosine (m6A) affect?,factoid
+1690,What is the implication of histone lysine methylation in medulloblastoma?,summary
+1691,What is the Orco protein in mosquitos?,summary
+1692,List some ways to reverse Tau hyperphosphorylation in Tauopathies?,list
+1693,What is the role of 5hmC (5 hydroxy-methyl-Cytocine) in differentiation?,summary
+1694,Which is the histone residue methylated by MLL1?,factoid
+1695,What is CRISPRi?,summary
+1696,Which type of cells is affected in Amyotrophic Lateral Sclerosis?,factoid
+1697,Is Achondroplasia associated with hearing loss?,yesno
+1698,Is the JNK pathway activated during liver regeneration?,yesno
+1699,Is STAT3 transcription factor regulated by mTORC1?,yesno
+1700,How is mTORC1 involved in the regulation of heat stress?,summary
+1701,List components of the CRSP/Med complex.,list
+1702,Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast?,factoid
+1703,Is calcium overload involved in the development of diabetic cardiomyopathy?,yesno
+1704,What is the mechanism of viroid replication?,factoid
+1705,Which mitochondrial genes are regulated by thyroid hormone?,list
+1706,Mutation of which gene is associated with McLeod syndrome?,factoid
+1707,Is RIP1 (RIP-1) part of the necrosome?,yesno
+1708,Which is the molecular target of the immunosuppressant drug Rapamycin?,factoid
+1709,Is the protein KCNQ2 associated with idiopathic epilepsy?,yesno
+1710,PBT2 has been tested for which disorder?,factoid
+1711,What is the basic secondary structure of the variable domains of a typical antibody?,summary
+1712,How does long-range epigenetic silencing (LRES) occur?,summary
+1713,What is the mode of inheritance of Acromicric dysplasia?,factoid
+1714,Can RNAPolII function as an RNA-dependent RNA-polymerase?,yesno
+1715,Which are the best treatment options to treat Helicobacter pylori?,list
+1716,List sclerostin interaction partners.,list
+1717,Under which conditions does AMPK phosphorylate TSC2?,summary
+1718,What imaging modalities have been listed as method of choice  to diagnose CSF leak?,list
+1719,Which are currently available software tools for detecting rare codon clusters in coding sequences?,list
+1720,How many tissue kallikrein genes are present in the human genome?,factoid
+1721,Does the Oncotype DX test work with paraffin embedded tissues?,yesno
+1722,Where does CTCF colocalize with cohesin?,factoid
+1723,Name triad of Wernicke encephalopathy.,list
+1724,Is the PTPN22 gene a biomarker for Rheumatoid Arthritis?,yesno
+1725,Is marijuana use associated with increased risk for stroke?,yesno
+1726,How many and which are the different isoforms for the ryanodine receptor?,list
+1727,Which compound is a specific inhibitor for Nox1 and Nox4?,factoid
+1728,Which molecule is targeted by the drug Gevokizumab?,factoid
+1729,Which protein phosphatases have been found to dephosphorylate phospholamban?,list
+1730,What is the most prominent sequence consensus for the polyadenylation site?,list
+1731,Does fibronectin constitute a serum biomarker for Duchenne muscular dystrophy?,yesno
+1732,What colonoscopy findings have been reported in autism,summary
+1733,What is a disordered protein?,summary
+1734,What is the Drosophila melanogaster Groucho protein?,factoid
+1735,Which enzyme is inhibited by Imetelstat?,factoid
+1736,What is the catalytic mechanism of DNA (cytosine-5) methyltransferases?,summary
+1737,Are mutations in the STXBP1 gene associated with epilepsy?,yesno
+1738,What is the mechanism of action of geldanamycin?,summary
+1739,Which is the most widely used anti-TNF drug?,factoid
+1740,What is the association between number of pregnancies and rheumatoid arthritis,summary
+1741,Is mitofusin 2 a receptor for parkin?,yesno
+1742,What are the main benefits of pharmacophore models?,list
+1743,How Flaviviridae family of viruses infects vertebrates?,summary
+1744,What was the aim of the HAMLET clinical trial?,summary
+1745,Can we use prodrug amifostine to protect healthy cell during chemotherapy?,summary
+1746,Which is the main difference between Alu and B1 repeats?,factoid
+1747,Is there a relationship between thyroid hormone altered metabolism and coronary artery disease?,yesno
+1748,What is the frequency of mutations induced spontaneously through Ethylnitrosourea (ENU) mutagenesis?,factoid
+1749,What is the molecular pathogenesis of Spinal Muscular Atrophy?,summary
+1750,Which drugs affect insulin resistance in obesity?,list
+1751,Elaborate on the link between conserved noncoding elements (CNEs) and fractality.,summary
+1752,Which is the primary protein component of Lewy bodies?,factoid
+1753,Are microtubules marked by glutamylation?,yesno
+1754,What is known about the Kub5-Hera/RPRD1B interactome?,summary
+1755,Willis-Ekbom disease is also known as?,factoid
+1756,List two most common symptoms of Aagenaes syndrome.,list
+1757,Which are the side effects during tacrine administration in patients with Alzheimer's Disease?,list
+1758,Is synapsin a phosphoprotein?,yesno
+1759,Is Thalidomide currently a marketed drug?,yesno
+1760,Which enzymes synthesize catecholamines in adrenal glands?,list
+1761,How many cysteines have alpha-defensins?,factoid
+1762,Could BRCA gene test used for breast and ovarian cancer risk?,yesno
+1763,What is Desomorphine?,summary
+1764,Which two drugs are included in the Harvoni pill?,list
+1765,What is the result of Mff overexpression in mitochondria?,summary
+1766,Has Glucose-6-phosphate dehydrogenase (G6PD) deficiency an X-linked inheritance?,yesno
+1767,"What is FFI, fatal familial insomnia",summary
+1768,Which mutated genes are associated with the Tourette's syndrome?,list
+1769,Which enzyme is inhibited by niraparib?,factoid
+1770,Which peak calling algorithm employs mixture model clustering under the hood?,factoid
+1771,Data from which major epigenome projects are contained in the DeepBlue epigenomic data server?,list
+1772,Which diseases that can be treated using the focused ultrasound thalamotomy.,list
+1773,Is the toxin produced by Clostridium botulinum always deadly?,yesno
+1774,Is ocrelizumab effective for treatment of multiple sclerosis?,yesno
+1775,Elaborate on the role of CARMEN in cardiac specification.,summary
+1776,Is there a role of regorafenib for sarcoma treatment?,yesno
+1777,Which drug was tested in the TEMSO Trial for multiple sclerosis?,factoid
+1778,What is the mechanism of action of peginesatide?,summary
+1779,Describe mechanism of action of Eteplirsen?,summary
+1780,Which genes of the marmoset genome exhibit rapid sequence evolution?,list
+1781,What is the importance of Janus Kinases in dermatology?,summary
+1782,What is the incidence of beta-thalassemia in Greek population?,factoid
+1783,Is exon skipping correlated with exon circularization?,yesno
+1784,What is the target of daratumumab?,factoid
+1785,Which gene-defect causes the Vel-blood type?,factoid
+1786,Is NADPH oxidase 5 expressed in rodents?,yesno
+1787,List selective estrogen receptor degraders.,list
+1788,What is the role of ZNF335 in microcephaly?,summary
+1789,What molecule is targeted by Avelumab?,factoid
+1790,What are the exonic splice enhancers?,summary
+1791,What are the birth defects associated with Zika-virus infection?,summary
+1792,What is Neisseria adhesin A?,summary
+1793,Which R package is used for the detection of chromosomal abnormalities from microarray data?,factoid
+1794,List all the available databases of super enhancers,list
+1795,Which are the consequences of the hyperphosphorylated tau in Alzheimers' Disease?,list
+1796,"Which is the \""bonding hormone\""?",factoid
+1797,What causes Scurvy?,summary
+1798,Describe clinical presentation of Ambras syndrome.,summary
+1799,Which diseases are involved in the severe cutaneous reactions (SCAR) spectrum?,list
+1800,Which tool employs self organizing maps for analyzing synonymous codon usage?,factoid
+1801,What is MINDY-1?,summary
+1802,What is the benserazide's mechanism of function when co-administered with L-DOPA in patients with Parkinson's Disease?,summary
+1803,What is regioneR?,summary
+1804,For what indications is thalidomide currently marketed?,list
+1805,What are reactive metabolites?,summary
+1806,"What is the \""wearing-off\"" phenomenon in levodopa-treated patients with Parkinson's Disease?",summary
+1807,What are prions?,summary
+1808,Does Vitamin D induce  autophagy?,yesno
+1809,What is sQTLseekeR?,summary
+1810,What is Creutzfeldt-Jakob Disease (CJD)?,summary
+1811,Describe what is athelia syndrome?,summary
+1812,Is RASA2 involved in melanoma?,yesno
+1813,What is BioCreative?,summary
+1814,What is Contrave prescribed for?,factoid
+1815,Which is the chromosome area that the human gene coding for the dopamine transporter (DAT1) is located to?,factoid
+1816,What type of mutation is causing the industrial melanism phenotype in peppered moths?,factoid
+1817,What gene is mutated in Huntington's disease?,factoid
+1818,Which software package is available for the analysis of conserved genomic loci?,factoid
+1819,Mutation of which gene is implicated in the Christianson syndrome?,factoid
+1820,What is Eteplirsen (Exondys 51)?,summary
+1821,What are the SINEUPs?,summary
+1822,What is trichotillomania?,factoid
+1823,What is the mechanism of action of raxibacumab?,summary
+1824,What is the effect of CPEB3 binding to the CPE domain?,summary
+1825,Is SUMOylation a post-translational modification in eukaryotes?,yesno
+1826,What is the Shelterin complex?,summary
+1827,What disease is the drug aducanumab targeting?,factoid
+1828,Which human syndromes have been detected with Fluorescence in situ hybridization (FISH)?,list
+1829,List symptoms of EAST syndrome.,list
+1830,When did the polio vaccine becomes available?,factoid
+1831,Is Annexin V an apoptotic marker?,yesno
+1832,Which are the lipid lowering drugs administered in patients with Coronary Artery Disease (CAD)?,list
+1833,What are PD-1 inhibitors?,summary
+1834,Is the protein lefty an inhibitor of nodal?,yesno
+1835,List drugs withdrawn from the market for cardiovascular adverse events.,list
+1836,Is Migalastat used for treatment of Fabry Disease?,yesno
+1837,Where are Paneth cells located?,factoid
+1838,Which are the types of viral meningitis?,list
+1839,What are the different classes of orally administered drugs used to treat diabetes,list
+1840,Which pipelines are used for analyzing data from ChIP-nexus experiments?,list
+1841,What do statins do?,summary
+1842,Which cells secretes alpha defensin 5?,factoid
+1843,Do statins cause diabetes?,yesno
+1844,What is the effect of nocodazole cell treatment?,factoid
+1845,What is Path2PPI?,summary
+1846,SPAG5 was implicated in which cancers?,list
+1847,What are some of the effects of Zika Virus in infected individuals?,summary
+1848,What is the function of Oseltamivir when administered during flu?,summary
+1849,What is the composition of the gamma-secretase complex?,summary
+1850,List kinases that phosphorylates the protein Bora.,list
+1851,Are deletions of chromosomal regulatory boundaries associated with congenital disease?,yesno
+1852,What is the role of the UBC9 enzyme in the protein sumoylation pathway?,factoid
+1853,Can the Micro-C XL method achieve mononucleosome resolution?,yesno
+1854,Can Diabetes be caused by a defect in a potassium chanel?,yesno
+1855,Which fimA genotypes are associated with disease?,list
+1856,Is rucaparib used for ovarian cancer treatment?,yesno
+1857,What is the role of cohesins at the IFNG locus?,summary
+1858,Describe Wellens' Syndrome.,summary
+1859,Which human disease is associated with mutated UBQLN2,factoid
+1860,Which ApoE isoform is associated with hyperlipoproteinemia?,factoid
+1861,Could hypophosphatemic rickets cause craniosynostosis?,yesno
+1862,Is vortioxetine effective for treatment of depression?,yesno
+1863,Which server is used for simulation of macromolecular diffusional association?,factoid
+1864,Can beans induce apoptosis?,yesno
+1865,What is the function of transthyretin in cerebrospinal fluid?,summary
+1866,Can you define iatrogenic disease?,factoid
+1867,Where do the Schwann cells and melanocytes originate from?,factoid
+1868,Please list 3 diseases associated with the PIEZO2 gene.,list
+1869,Is treatment resistant depression related to vitamin B9?,yesno
+1870,Where is the protein slitrk1 localized?,summary
+1871,Describe clinical manifestation of the Harlequin syndrome.,summary
+1872,What is the role of the constitutive photomorphogenesis 9 signalosome (CSN)?,summary
+1873,Is adalimumab effective for hidradenitis suppurativa?,yesno
+1874,What is Legg-Calv\u00e9-Perthes Disease,summary
+1875,What is promoted by ERAP1-ERAP2 dimerization?,summary
+1876,What is plantar fasciitis,factoid
+1877,Which is the enzymatic activity of OTULIN?,factoid
+1878,List diseases that could be targeted by disaggregases?,list
+1879,Can NEECHAM Confusion Scale be used for evaluation of postoperative delirium?,yesno
+1880,What is adhesive capsulitis,summary
+1881,Describe the applicability of Semantic MediaWiki in the case of FANTOM5,summary
+1882,Is there an association between Muenke Syndrome and FGFR3 gene mutation?,yesno
+1883,Which R package is used for visualization of linear and circular karyotypes?,factoid
+1884,Has small pox been eradicated from the world?,yesno
+1885,Where is Akkermansia muciniphila found?,factoid
+1886,Is there alternative polyadenylation during zebrafish development?,yesno
+1887,Which NADPH oxidase family member requires interaction with NOXO1 for function?,factoid
+1888,Are alterations in ultraconserved elements implicated in breast cancer?,yesno
+1889,What is the mechanism of action of Osimertinib?,summary
+1890,What is Bartter syndrome?,summary
+1891,Is there any tool that facilitates the functional analysis of cis-regulatory regions in zebrafish?,yesno
+1892,List RNA modifications databases,list
+1893,Please list the 3 findings in HELLP syndrome.,list
+1894,Which mutated gene is associated with Waardenburg and Tietz syndromes?,factoid
+1895,List the three most abundant bacterial phyla present in mouse feces.,list
+1896,What gene is mutated in Sickle Cell Anemia?,factoid
+1897,What is the function of the Indian hedgehog protein in chondrocytes?,summary
+1898,What is the function of R-spondin 1 and noggin in non-damaged gallbladders?,factoid
+1899,List the classical triad of symptoms of the Melkersson\u2013Rosenthal syndrome.,list
+1900,Which disease is treated with taliglucerase alfa?,factoid
+1901,What is formin associated with in the snail?,factoid
+1902,What is the major difference between eucaryotes and procaryotes?,summary
+1903,What is the HSP70-HSP110 disaggregase machinery?,summary
+1904,Has whole exome sequencing been performed in Alzheimer patients?,yesno
+1905,Which is the genome browser database for DNA shape annotations?,factoid
+1906,Is Stat4 a transcription factor?,yesno
+1907,Have the promoter regions of the genes implicated in Rett Syndrome been characterized with CAGE?,yesno
+1908,"Has \""RNA interference\"" been awarded Nobel prize?",yesno
+1909,Is there any role for Pds5b in cohesion establishment?,yesno
+1910,Which factors are considered in the FUNC score for intracerebral hemorrhage?,list
+1911,Where is the respirasome located?,factoid
+1912,Describe the usefulness of MiRduplexSVM.,summary
+1913,What genes are drug targets for Fibrodysplasia Ossificans Progressiva (FOP)?,list
+1914,"What kind of analyses are performed with the software tool \""unipept\""",summary
+1915,What is the role of gamma-secreatase complex in Alzheimer's Disease?,factoid
+1916,Which syndromes are associated with heterochromia iridum?,list
+1917,What is the target of tanezumab?,factoid
+1918,Could plasmepsins be used as targets for developing anti-malaria drugs?,yesno
+1919,What is MRSA?,factoid
+1920,List peptide fragmentations methods in mass spectrometry,list
+1921,Is avanafil indicated for treatment of erectile dysfunction?,yesno
+1922,"What is \""Epitranscriptome analysis\""?",summary
+1923,Which infection can be prevented with Dapivirine?,factoid
+1924,What is Bexsero?,summary
+1925,Is there a role for gamma knife in treatment of Obsessive-Compulsive Disorder?,yesno
+1926,What is the mechanism of action of the biguanide class of diabetes drugs?,summary
+1927,Where is the proteasome located?,summary
+1928,What is clinical presentation of the Gardner-Diamond syndrome?,summary
+1929,Where can you find the annulus of Zinn?,factoid
+1930,What is the indication for SLCO1B1 genotyping?,factoid
+1931,List available circular RNA prediction tools.,list
+1932,Which disease is treated with Nusinersen?,factoid
+1933,Which disease the London mutation involved in?,factoid
+1934,Define lncRNA.,summary
+1935,How many microorganisms are present in human normal gut?,factoid
+1936,"What is the role of 3,4-diaminobenzoic acid derivatives in the immune system?",factoid
+1937,Can NADPH oxidase be inhibited by apocynin and diphenylene iodonium?,yesno
+1938,Viliuisk encephalomyelitis is diagnosed in which geographical area?,factoid
+1939,What are Septins?,summary
+1940,What is the drug target for Simtuzumab?,factoid
+1941,What is Dravet syndrome?,factoid
+1942,What makes telomerase a good drug target?,summary
+1943,What is DENdb?,summary
+1944,List scales that are used for scoring of patients with spinal metastasis?,list
+1945,Does NADPH oxidase 5 require any subunit for function?,yesno
+1946,What are the side effects during statins administration in patients with atherosclerosis?,list
+1947,Entresto is composed of which two drugs?,list
+1948,What is the doRiNA database?,summary
+1949,Is NSD-1015 an inhibitor of Aromatic L-Amino Acid Decarboxylase?,yesno
+1950,Is pseudouridine a RNA modification?,yesno
+1951,What does the human ABCC gene  product do?,factoid
+1952,What is the connection between furin and hepcidin?,summary
+1953,Which cells express CIDEC protein in humans?,summary
+1954,Which is the relation between coffee consumption and stroke risk?,factoid
+1955,What is the purpose of the Orpington Prognostic Scale?,summary
+1956,Do IEG create a ripple effect of transcription?,yesno
+1957,Which R package is used for the analysis of genome-wide DNA methylation profiles?,factoid
+1958,Do T-Cells regulate neuropathic pain?,yesno
+1959,What is the incidence of new cases of X-linked adrenoleukodystrophy (ALD) in Australian and New Zealand in the late 1990's?,factoid
+1960,Can telomere length shortening be reversed by telomerase?,yesno
+1961,Is ABCE1 involved in ribosomal recycling?,yesno
+1962,What are clinical features of the de Morsier syndrome?,list
+1963,Does oculocutaneous albinism show an autosomal recessive inheritance?,yesno
+1964,Which is the largest metabolic gene cluster in yeast?,factoid
+1965,What is the applicability of the MCAST algorithm?,summary
+1966,Which ApoE isoform is associated with atherosclerosis and Alzheimer's disease?,factoid
+1967,Are Ultra-conserved elements (UCEs) enriched in segmental duplications?,yesno
+1968,What organism causes woolsorter's disease,factoid
+1969,Which annotated database of A-to-I RNA editing is available?,factoid
+1970,Do normal cells express the protein TERT?,yesno
+1971,Which protein complexes recognize centromeric (CEN) DNA in yeast?,list
+1972,Is there any involvement of the long non-coding RNA Gomafu in schizophrenia?,yesno
+1973,Is butterfly rash a symptom of Systemic lupus erythematosus?,yesno
+1974,What is the function of yeast Clr4 on chromatin?,summary
+1975,What is the role of LIMT lncRNA?,summary
+1976,Is infertility characteristic of individuals with Fanconi anemia?,yesno
+1977,What are Kupffer cells and what is their role?,summary
+1978,What is known about saponins in crops and human consumption?,summary
+1979,Is golimumab effective for ulcerative colitis?,yesno
+1980,What is the role of histone variant H2A.W?,summary
+1981,Which are the main brain dysfunctions caused by hyperbilirubinemia?,summary
+1982,Does mTOR regulate the translation of MAPKAPK2?,yesno
+1983,What chromosome is affected in Turner's syndrome?,factoid
+1984,What is the aim of the TRAP assay?,factoid
+1985,Describe clinical applications of the PIM2 scoring system.,summary
+1986,Do histone variant mH2A (macro-H2A) levels decrease upon differentiation?,yesno
+1987,Which disease is associated with mutations in SLC40A1 gene?,summary
+1988,Could divalent metal transporter 1 deficiency lead to anemia?,yesno
+1989,Does the hERG gene code for a protein which is part of a sodium channel?,yesno
+1990,Is lenvatinib effective for renal cell carcinoma?,yesno
+1991,Which proteins form part of the NRD complex in S. cerevisiae?,list
+1992,Which R / bioconductor package is used for performing SNP enrichment analysis?,factoid
+1993,Does HuR bind to the untranslated regions (UTRs) of mRNAs?,yesno
+1994,Describe Exploding head syndrome.,summary
+1995,Is H4K20 methylation associated with DNA replication?,yesno
+1996,Describe crowned dens syndrome.,summary
+1997,Does CRISPR inversion of CTCF sites alter genome topology?,yesno
+1998,How are looped genes identified in yest?,summary
+1999,Which are the causes of the Koebner phenomenon?,list
+2000,Is there a role of proton beam therapy in medulloblastoma treatment?,yesno
+2001,What is the function of the DGAT1 gene product?,summary
+2002,Which histone mutation is associated with gliomas?,factoid
+2003,Are there canonical marks of active chromatin in developmentally regulated genes?,yesno
+2004,What is the purpose of HaploReg v4?,summary
+2005,Which are the typical symptoms of M\u00e9ni\u00e8re's disease?,list
+2006,What tissue is most affected in Ehlers-Danlos syndromes?,factoid
+2007,What is Mondor's disease?,summary
+2008,List metalloenzyme inhibitors.,list
+2009,How are immediate early genes (IEG) defined?,summary
+2010,Which proteins remove H2A.Z in the yeast Saccharomyces cerevisiae?,list
+2011,Which library is used for fixed-length approximate string matching?,factoid
+2012,Are there methods for generating highly multiplexed ChIP-seq libraries?,yesno
+2013,Is Doxorubicin cardiotoxic?,yesno
+2014,Which diseases are associated with Primary intestinal lymphangiectasia (PIL)?,list
+2015,Is the mouse Sry gene locus free of repetitive sequences?,yesno
+2016,Is Meis1 implicated in microphthalmia?,yesno
+2017,Can Pentraxin 3 predict outcomes of sepsis?,yesno
+2018,Which polymerase transcribes pri-miRNAs?,factoid
+2019,Which mutated enzyme is responsible for oculocutaneous 1 (OCA1)-type albinism?,factoid
+2020,Please list 2 treatments for a torn rotator cuff,list
+2021,What is the role of Laser Interstitial Thermal Therapy in glioma treatment?,summary
+2022,Which protein mediates the replacement of H2A by H2A.Z in the yeast Saccharomyces cerevisiae?,factoid
+2023,Which are the key players on radial glial specification to ependymal cells?,list
+2024,Is ocular melanosis a risk factor for uveal melanoma?,yesno
+2025,What is known about telomere length shortening and stress?,summary
+2026,What fruit causes Jamaican vomiting sickness?,factoid
+2027,Which gene is mutated in the Karak syndrome?,factoid
+2028,What is LedPred?,summary
+2029,Is siltuximab effective for Castleman disease?,yesno
+2030,What are Degrons?,summary
+2031,Which disease is associated with mutated Sox2?,factoid
+2032,Is the enzyme EPRS phosphorylated?,yesno
+2033,Which disease the skin condition Necrobiosis lipoidica diabeticorum is associated to?,factoid
+2034,What is the role of Lysine 2-hydroxyisobutyrylation?,summary
+2035,List diseases associated with the  Dopamine Receptor D4 (DRD4).,list
+2036,Which bacteria cause diphtheria?,list
+2037,What is the function of calcium-sensing receptor (CaSR)?,factoid
+2038,List drug that were evaluated in the CHAMP trial for migraine.,list
+2039,What is the role of IL-18BP?,factoid
+2040,Which protein mediates gene loop formation in the yeast S. cerevisiae?,factoid
+2041,Which two drugs were compared in the ARISTOTLE Trial?,list
+2042,What is REVIGO?,summary
+2043,What is the mechanism of action of onartuzumab?,summary
+2044,Is there a relationship between B cells and Multiple Sclerosis?,yesno
+2045,Which virus type causes Molluscum contagiosum?,factoid
+2046,Which disease(s) are caused by HEX A deficiency?,summary
+2047,What is Beh\u00e7et's disease,summary
+2048,Does Yersinia pestis causes a respiratory infection?,yesno
+2049,List 3 indications for Bupropion,list
+2050,What is the function of BAX,factoid
+2051,What is the link between Ctf4 and Chl1 in cohesion establishment?,summary
+2052,How is primary intestinal lymphangiectasia (PIL) caused?,summary
+2053,What are congenital disorders of glycosylation?,summary
+2054,Which are the additions of the JASPAR 2016 open-access database of transcription factor binding profiles?,list
+2055,What is the function of the protein tafazzin?,summary
+2056,What are assassin bugs?,summary
+2057,Are the genes for marneral biosynthesis scattered in the genome of A. thaliana?,yesno
+2058,Is Dupilumab used for treatment of atopic dermatitis?,yesno
+2059,Where is base J found in the genome of Leishmania tarentolae?,factoid
+2060,Which tool is available for predicting regulatory interactions from ChIP-seq data?,factoid
+2061,Where are the unipolar brush cells localized?,summary
+2062,Which driver mutations have been identified for Diffuse Intrinsic Pontine Glioma (DIPG)?,list
+2063,Does Jarid2 play a role in early embryo development?,yesno
+2064,Is PUVA therapy indicated for eczema treatment?,yesno
+2065,What is DECKO?,summary
+2066,List genes associated with hypolipidemia.,list
+2067,What is the enzymatic activity of PARL?,factoid
+2068,Do brown fat cells produce heat?,yesno
+2069,What is a mimotope vaccine?,summary
+2070,Describe clinical manifestation of the Mal de debarquement syndrome.,summary
+2071,Is Melioidosis caused by the bacterium\u00a0Burkholderia pseudomallei?,yesno
+2072,What is the mechanism of action of verubecestat?,summary
+2073,How are triple negative gliomas characterized?,summary
+2074,What is ectopia lentis?,summary
+2075,Can glyburide reduce cerebral edema?,yesno
+2076,What is the function of gasdermin D?,summary
+2077,What is TOPAZ1?,summary
+2078,Which are the symptoms of glucose-6-phosphate dehydrogenase (G6PD) deficiency?,list
+2079,Has the gorilla genome been determined?,yesno
+2080,Is vemurafenib used for thyroid cancer?,yesno
+2081,Are mutations in the C9orf72  gene associated with macular degeneration?,yesno
+2082,What is the Genome 10K Project?,summary
+2083,Which gene controls the expression of GATA-1 isoforms?,factoid
+2084,What is MIRA-seq?,summary
+2085,How does Ssu72 mediate gene looping?,summary
+2086,Is the number of described human nuclear mutations less than 50000?,yesno
+2087,What is the role of peptide aptamers?,summary
+2088,Which are the clinical symptoms of left ventricular noncompaction?,list
+2089,What is the Glasgow Coma score?,summary
+2090,Andexanet Alfa is an antidote of which clotting factor inhibitors?,factoid
+2091,Which is the main cause of the Patau syndrome?,factoid
+2092,Which is the main abnormality that arises with Sox9 locus duplication?,factoid
+2093,Is Musclin a secretory peptide?,yesno
+2094,What tissue is commonly affected in Marfan's syndrome,factoid
+2095,To which disease does the loss of CD28 expression by liver-infiltrating T cells contribute?,factoid
+2096,Are cutaneous porphyrias inherited with a recessive pattern?,yesno
+2097,Which disease is treated with ZMapp?,factoid
+2098,Can methylenetetrahydrofolate reductase (MTHFR) gene mutations cause homocystinuria?,yesno
+2099,What happens to H2AX upon DNA bouble strand breaks?,factoid
+2100,Can valproic acid prolong survival of glioblastoma patients?,yesno
+2101,What is the effect of the direct interaction of Ikaros and Foxp1 in B-lymphocytes?,factoid
+2102,Which syndrome is caused by deletion of Pds5b in mice?,factoid
+2103,What is the inheritance of Barth syndrome?,factoid
+2104,Is Cryptococcus neoformans a frequent cause of isolated skin infections in immunocompromised individuals,yesno
+2105,What is the mechanism of action of Pictilisib?,summary
+2106,What are sirtuins?,summary
+2107,Which miRNA is targeted by SRY/Sox9?,factoid
+2108,Which technique led to the elucidation of the role of HOXD10 in regulating lymphatic endothelial responses to VEGF-C?,factoid
+2109,Is Obeticholic Acid used for treatment of Primary Biliary Cholangitis?,yesno
+2110,What alternate indication has Vanoxerine been repositioned for?,factoid
+2111,What is the applicability of the No Promoter Left Behind method?,factoid
+2112,Which mutated genes are associated with isolated ectopia lentis?,list
+2113,Does the word ovine refers to goats?,yesno
+2114,Does GATA-1 regulate ribosomal protein genes?,yesno
+2115,Which gene mutations cause the Marfan syndrome?,factoid
+2116,What is the indication of ARCALYST?,factoid
+2117,What is ChIPpeakAnno?,summary
+2118,Signaling of which pathways is inhibited by Dupilumab?,list
+2119,Does the TOP2B/TOP2A expression ratio affect the response to AML chemotherapy?,yesno
+2120,List the three main structures of the cytoskeleton.,list
+2121,What is the genus for the common European honey bee?,factoid
+2122,Where is the TAZ (G4.5) is located in humans?,factoid
+2123,What do nerve-associated peripheral glial progenitors give rise to?,factoid
+2124,How many topological associated domains are contained in the human Hox cluster?,factoid
+2125,Is Lennox-Gastaut Syndrome usually diagnosed in older adults?,yesno
+2126,Which treatment methods were compared in the EXCEL Trial?,list
+2127,Describe ATR-16 syndrome.,summary
+2128,What is the results of inactivated ANGPLT3?,factoid
+2129,What percentage of rheumatoid arthritis patients are responsive to anti-TNF therapy?,factoid
+2130,Which disease is treated with semaglutide?,factoid
+2131,What condition is usually represented by the acronym SUDEP?,factoid
+2132,Which proteins does the yeast Cleavage and Polyadenylation Complex contain?,list
+2133,Which disease can be categorized using the Koos grading system?,factoid
+2134,What is the inheritance of the glucose-6-phosphate dehydrogenase (G6PD) deficiency?,factoid
+2135,Which deep learning-based algorithms are used for enhancer prediction?,list
+2136,Is Beta-Thalassemia is associated with a mutation or deletion of the gene that codes for alpha globin?,yesno
+2137,Is diphosphatidylglycerol (cardiolipin) a phospholipid of the mitochondrial membranes?,yesno
+2138,Have studies shown that there is no link between DNA methylation patterns and Post Traumatic Stress Disorder?,yesno
+2139,Is POLD3 essential for mouse development?,yesno
+2140,What is the mechanism of action of Romosozumab?,summary
+2141,Symptoms of which disorder are evaluated with the Davidson Trauma Scale?,factoid
+2142,What is the function of the Mis18 protein?,summary
+2143,Are hepadnaviral minichromosomes free of nucleosomes?,yesno
+2144,Is Cri Du Chat associated with an expansion of a repeat with in the gene found on chromosome 5?,yesno
+2145,What are the roles of Smyd3 in zebrafish?,list
+2146,Which enzyme is inhibited by ribociclib?,factoid
+2147,Which histone mutations have been associated with pediatric gliomas?,list
+2148,Is it feasible to obtain DNA read lengths that exceed 30 Kb?,yesno
+2149,Is osteocrin expressed exclusively in the bone?,yesno
+2150,What is  Achondroplasia?,factoid
+2151,What is the indication for Mirabegron?,factoid
+2152,What is the cause of Tardive dyskinesia?,factoid
+2153,Are alterations in ultraconserved elements associated with colorectal adenocarcinoma?,yesno
+2154,What is PANTHER-PSEP?,summary
+2155,What is MPE-seq?,summary
+2156,Describe the mechanism of action of Bezlotoxumab?,summary
+2157,Is apremilast effective for psoriasis?,yesno
+2158,Is skin color affected by variations of the SLC24A5 gene?,yesno
+2159,How are Arboviruses transmitted?,factoid
+2160,Which bacterium has the smallest genome in base pairs yet found?,factoid
+2161,Which are the triad symptoms of pheochromocytoma?,list
+2162,List the types of the Cardiorenal syndrome (CRS) according to the five-part classification system.,list
+2163,What is a miR?,factoid
+2164,Do circRNAs remain untranslated?,yesno
+2165,What is the biological function of the SRY circular RNA (circRNA)?,summary
+2166,What is Uhl's anomaly?,summary
+2167,Is autophagy the process where bacteria ingest viral particles?,yesno
+2168,Can aspirin be used in cancer prevention?,summary
+2169,Which are the components of the pre-replication complex (pre-RC) in eukaryotes?,list
+2170,What is the inheritance of hypophosphatemic rickets?,list
+2171,"Which mushroom is poisonous, Amanita phalloides or Agaricus Bisporus",factoid
+2172,Which is the most common gene signature in Rheumatoid Arthritis patients?,factoid
+2173,Which NGS alignment software implement the Burrows-Wheeler Transform?,list
+2174,Is intraoperative radiotherapy used for treatment of glioblastoma?,yesno
+2175,"Which server is used for generating modes of pseudo components of DNA, RNA and protein sequences?",factoid
+2176,What is the link between TB (Turbeculosis) infection and TNFa inhibition?,summary
+2177,Which class of genes are mutated in Diamond Blackfan Anemia patients?,factoid
+2178,List the human acrocentric chromosomes that are involved in Robertsonian translocation.,list
+2179,Is tirilazad effective for treatment of aneurysmal subarachnoid haemorrhage?,yesno
+2180,Which protein is the main marker of Cajal bodies?,factoid
+2181,Which mutated gene causes the Ch\u00e9diak\u2013Higashi Syndrome?,factoid
+2182,The pathogen Fusarium graminearum affects what type of plant species?,factoid
+2183,List viral vectors used in gene therapy.,list
+2184,Is dexamethasone recommended for treatment of intracerebral hemorrhage?,yesno
+2185,What happens upon disruption of a TAD boundary?,summary
+2186,List the classical symptoms of the Moschcowitz syndrome (Thrombotic thrombocytopenic purpura).,list
+2187,Is airplane stroke syndrome a common disease.,yesno
+2188,Which R / bioconductor package is used for enrichment analysis of genomic regions?,factoid
+2189,Which is the major RNA editing enzyme in Drosophila melanogaster?,factoid
+2190,What is the CEGA catalog?,summary
+2191,Which protein is associated with hyperemesis gravidarum during pregrancy?,factoid
+2192,Is hydroxyurea usually used to treated infectious disease?,yesno
+2193,What is magnetoreception?,summary
+2194,Can acupuncture cause spinal epidural hematoma?,yesno
+2195,Is edema a symptom of nephrotic syndrome?,yesno
+2196,"Angelman syndrome is associated with deletion of a part of Chromosome 15 but if the deletion occurs in the paternally inherited chromosome 15, what is the disease?",factoid
+2197,What is the phenotype of people carrying mutations in the gene PRDM12?,factoid
+2198,Is there an association between Histone H3.3 mutations and glioma?,yesno
+2199,Which cellular function is associated with transcription factors forkhead 1 and 2 (Fkh1 and Fkh2)?,factoid
+2200,What is the role of the Ctf4-interacting-peptide or CIP-box?,summary
+2201,"What type of genome, (RNA or DNA, double stranded single stranded) is found in the the virus that causes blue tongue disease?",factoid
+2202,"What is a \""chemobrain\""?",factoid
+2203,Borden classification is used for which disease?,factoid
+2204,Which effects create neighborhoods of transcriptional regulation in eukaryotes?,factoid
+2205,Is Pfh1 a component of the replisome?,yesno
+2206,What is the function of mTOR?,summary
+2207,What is the indication for valbenazine?,factoid
+2208,List features of the Kaufman Oculocerebrofacial Syndrome.,list
+2209,What is the role of DNA Repair Cofactors ATMIN and NBS1?,factoid
+2210,The MMR vaccine protects against what 3 viruses?,list
+2211,List cardinal features of the Triple A syndrome.,list
+2212,Describe the applicability of Basset in the context of deep learning,summary
+2213,Does the Abelson-related gene (ARG) gene encode for a serine kinase?,yesno
+2214,What organism causes tularemia?,factoid
+2215,Is Prochlorococcus the most abundant photosynthetic organism?,yesno
+2216,List 3 features of IRVAN syndrome.,list
+2217,Which are the Proprotein Convertase Subtilisin Kexin 9 (PCSK9) inhibitors that are FDA approved?,list
+2218,Is dupilumab an antibody targeting the IL-1 receptor?,yesno
+2219,List active ingredients of the Stribild polypill.,list
+2220,List clinical features of the IMAGe syndrome.,list
+2221,Which gene mutations are predictive of response to anti-TNF therapy in Rheumatoid Arthritis patients?,list
+2222,Which method is used for prediction of novel microRNA genes in cancer-associated genomic regions?,factoid
+2223,Does the histone chaperone ASF1 interact with histones H1/H2?,yesno
+2224,Is Hepatic mesenchymal hamartoma usually a malignant tumor?,yesno
+2225,List clinical features of EEM syndrome.,list
+2226,How many times is CLAST faster than BLAST?,factoid
+2227,Which are the most common methods for circular RNA detection from RNASeq?,list
+2228,From which cell type is leptin secreted?,factoid
+2229,Which tool is used for the identification of recurrent variants in noncoding regions?,factoid
+2230,What body parts are also known as phalanges?,factoid
+2231,Are selenium supplements recommended for prostate cancer prevention?,yesno
+2232,Which disease is treated with lucinactant?,factoid
+2233,Which proteins control the degradation of cryptic unstable transcripts (CUTs) in yeast?,list
+2234,Is there any involvement of L1 retrotransposition in the Rett syndrome?,yesno
+2235,Is Downs syndrome associated with decreased risk of leukemia?,yesno
+2236,Which enzyme is inhibited by ixazomib?,factoid
+2237,Does PCSK9 (Proprotein convertase subtilisin/kexin type 9) binds with HDL-receptor (HDL-R)?,yesno
+2238,Hy's law measures failure for what organ?,factoid
+2239,Is apremilast effective for psoriatic arthritis?,yesno
+2240,Is there any role of TBR1 in autism?,yesno
+2241,What is the role of the MCM2-7 complex?,summary
+2242,In which fields of DNA sequencing are Bloom filters applied?,list
+2243,Which 2 medications are included in the Qsymia pill?,list
+2244,Is sonidegib effective for basal cell carcinoma?,yesno
+2245,Which R package could be used for the identification of pediatric brain tumors?,factoid
+2246,Describe the usefulness of CAMUR in The Cancer Genome Atlas (TCGA),summary
+2247,Which markers are screened with the triple test for the detection of syndromes in fetus?,list
+2248,What is the role of TAD protein domain?,factoid
+2249,What is the function of lncRNA?,summary
+2250,What is the function of the exosome?,summary
