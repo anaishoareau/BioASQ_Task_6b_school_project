@@ -12,7 +12,10 @@ by the grammatical parsing information (colums: question,parse_tree,question_typ
 
 * data_word2vec: 
 
-Contains biomedical data for training the neural network of the word embedding
+Need to contains biomedical data for training the neural network of the word embedding
+Downoald https://archive.org/download/pubmed2018_w2v_200D.tar/pubmed2018_w2v_200D.tar.gz
+Unzip the folder and add it to the data_word2vec folder
+https://github.com/RaRe-Technologies/gensim-data/issues/28
 
 * stanford-corenlp-full-2018-10-05 : 
 
